@@ -1,0 +1,2661 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/AeroFlame.jar"
+hash = "dcb4c7bfdae666271476e6275f4801a761268d0eb3d7dd2f1f34006a177fc830"
+
+[[files]]
+file = "mods/AlienEvo-1.1.3-forge.jar"
+hash = "115a9b6526c8ea93ed22dda90e171a3a0bb88b1a3af69667224aea75df22dae0"
+
+[[files]]
+file = "mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar"
+hash = "330f482487ac3135557b6e898d7e1ae5330321e9cfd5ba63e13a16cf2e8d8b98"
+
+[[files]]
+file = "mods/CarbonConfig-1.20-2.0.2.1.jar"
+hash = "bc5e7f3e6ece33fdcf6557eee598291be70a474bf8bb1906e8bc021395944c8c"
+
+[[files]]
+file = "mods/Chunky-1.3.136.jar"
+hash = "4bfdf795cf2a70b0893947c03a24af8f0017e51004471667c605de9037105166"
+
+[[files]]
+file = "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar"
+hash = "936de62489c0d6fbe74202486cbe2b191b8629b02bab1d480acfdb03690f33f4"
+
+[[files]]
+file = "mods/EasierSleeping-1.20.1-2.1.4.jar"
+hash = "b3e910f83bbdcc90eecda958c87b3657480d027d109aa734f5985b984de62ca4"
+
+[[files]]
+file = "mods/EcoEcoFix/assets/afomni/animations/echoecho.animation.json"
+hash = "6573a4af6ee3d7d960445e77c6b46388800c8743bd969aa0c23f677ddb49459f"
+
+[[files]]
+file = "mods/EcoEcoFix/pack.mcmeta"
+hash = "f26f7b74b39a320f464db7a87f10b7fd299522e541391f971aea830f6f04a55c"
+
+[[files]]
+file = "mods/EcoEcoFix/pack.png"
+hash = "76707ca010b6534f37204f2d8a39cf311c1bf21cfe021373bb480d17401ddc3c"
+
+[[files]]
+file = "mods/FallingTree-1.20.1-4.3.6.jar"
+hash = "3ecc00200276cf5f57e991232292c23c242f3bf32186ef7c7aa5df89d81677a7"
+
+[[files]]
+file = "mods/FastFurnace-1.20.1-8.0.2.jar"
+hash = "970c11c090e7a364e2e006aabb5e573f79901e710e97195334ee5802317776e8"
+
+[[files]]
+file = "mods/Fusion-1.20.1-6.0.0.3.jar"
+hash = "aa534ea968b0344da8ed4d8903247bb3fb6d39318f123e0316255f9353d7f29e"
+
+[[files]]
+file = "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
+
+[[files]]
+file = "mods/ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar"
+hash = "369d11f294bb9e0232b412e1dbfa23e89ea364848c9ea8b475015199d90d32db"
+
+[[files]]
+file = "mods/MTR-forge-4.0.5+1.20.1.jar"
+hash = "97466eb715ab02f50a7f7e23f920bf9fdd9d5e4bbb12620c06c6751324c66e9a"
+
+[[files]]
+file = "mods/Mekanism-1.20.1-10.4.16.80.jar"
+hash = "3b0d191fa4a45e662f9725991d76a30192f30186abb2ba694b873b5f7b9358d2"
+
+[[files]]
+file = "mods/MekanismAdditions-1.20.1-10.4.16.80.jar"
+hash = "980a86196b872ca7a66a76d37fe2119097beb8e9cc7f0fad44aa0bb47f7d83a4"
+
+[[files]]
+file = "mods/MekanismGenerators-1.20.1-10.4.16.80.jar"
+hash = "be2d5b8553f8638cfabf491002f95cef6acef210f627addb391f5af713502512"
+
+[[files]]
+file = "mods/MekanismTools-1.20.1-10.4.16.80.jar"
+hash = "29089222fd52d272d767d7d2f62b9e6b401b3280a212be096eaedb0fc48aacfb"
+
+[[files]]
+file = "mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar"
+hash = "9a1835dd388a04c37acb1384e7c39650804103b3dd9d4b3910fd49022d18a4bf"
+
+[[files]]
+file = "mods/Paraglider-forge-20.1.3.jar"
+hash = "3528e4d424682a415ae97b9597e5ed0567e5a194b4aeb30ae364e962da43b36a"
+
+[[files]]
+file = "mods/Parkour-7.2.1-RELEASE.jar"
+hash = "41742ab1095b02185ea5ffc854e78a05ae6be0c58a6e40b2cd00db59b6d320e1"
+
+[[files]]
+file = "mods/Pehkui-3.8.2+1.20.1-forge.jar"
+hash = "54210f454c166f65a1bcbbfe4ea52e6f73e07844a793c7132f1af4076a0f42fc"
+
+[[files]]
+file = "mods/Placebo-1.20.1-8.6.3.jar"
+hash = "1cdf906cfbcbb5e5be2ef1bb721f79a24b01bd2ac559c8cdbfb7693f62421571"
+
+[[files]]
+file = "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+hash = "beeb560232c8ee691ea446d53194358902eed8ed38d198515906ac724bdde1fb"
+
+[[files]]
+file = "mods/PuzzlesLib-v8.1.36-1.20.1-Forge.jar"
+hash = "103f1d46c16023e346802a9b2024db885cf8dc3a43ee5106bcd5ed8165073efd"
+
+[[files]]
+file = "mods/REIPluginCompatibilities-forge-12.0.93.jar"
+hash = "7c49095f52b0b6f7db752126c4b069c78b1314f8f29eccf37db24b9d17fc76c4"
+
+[[files]]
+file = "mods/RoughlyEnoughItems-12.1.785-forge.jar"
+hash = "95d2b55868301c9d97dd020ce8049e59dc15cc8d9c88aa648f0bef1f30a728e3"
+
+[[files]]
+file = "mods/SereneSeasons-forge-1.20.1-9.1.0.3.jar"
+hash = "650c35858d335d45adea5445ffaed25ccd433f5cbfe4936ac2694b250177b674"
+
+[[files]]
+file = "mods/SimpleCoreLib-1.20.1-6.0.1.2.jar"
+hash = "20782de059615c0acd84c65f46fe70e8de0b6861a96cd2a1b443005828eaf6d0"
+
+[[files]]
+file = "mods/SimpleStorageNetwork-1.20.1-1.13.2.jar"
+hash = "1db6f5595e5edc255db6800de9e0e1aa8e01e10d79d1784d549d70eb2cf53012"
+
+[[files]]
+file = "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+hash = "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1"
+
+[[files]]
+file = "mods/Wildvine(1.0.3).jar"
+hash = "e5c805fac7a2ed314423248b4c3614dbe7e5f90d433a6410af5efe662278bf50"
+
+[[files]]
+file = "mods/addonslib-forge-1.20.1-1.11.jar"
+hash = "5e8679dbe21e6cb77b56b67422465204064bf80b3d33e7913239707c76c8699e"
+
+[[files]]
+file = "mods/alexscaves-2.0.2.jar"
+hash = "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0"
+
+[[files]]
+file = "mods/alexsmobs-1.22.9.jar"
+hash = "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mods/blockui-1.20.1-1.0.194-snapshot.jar"
+hash = "80f613d9b41753411c290c01b215672c149c51222e993f124dcd1e7720e9de32"
+
+[[files]]
+file = "mods/booklinggear-1.20.1-3.16.4.jar"
+hash = "e3640cc77de4102ad2cd55209dcd06f2f1fcff61e2b2871941cc5c4b4c86c738"
+
+[[files]]
+file = "mods/camera-forge-1.20.1-1.0.20.jar"
+hash = "593f3a9c0baf09d7baf8f9ec44b882716c43fbf11d5cbff607c9f7fa3ec9aeb8"
+
+[[files]]
+file = "mods/carryon-forge-1.20.1-2.1.2.7.jar"
+hash = "d7470921fc5ff988788d43409083f62478aecc91f4b81d7e6b63c80c933d4613"
+
+[[files]]
+file = "mods/charginggadgets-1.11.0.jar"
+hash = "4948bd0d92215e0e101a96028f72d8fb06c0dbb619b39160306d10655c669437"
+
+[[files]]
+file = "mods/chromastone/META-INF/mods.toml"
+hash = "ed1afd909f7b4d4bccd4912a04972f9fd24223057b5dc48c23bae24c2738b947"
+
+[[files]]
+file = "mods/chromastone/README.md"
+hash = "b17cf51b63d53c8cc09469c4f5cbae298223990f679f63f419d74797da715c27"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/creative_mode_tabs/chromastonepack.json"
+hash = "a3aebc93385ef2310bb64681273e0b59f820c8f597145ac3e0300c8ebc54ba05"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/items/sugilite_crystal.json"
+hash = "37a79202269640942ee583332823c72d7df0666a9ef8c9d53b188902a3160a0d"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/kubejs_scripts/alien_codex.js"
+hash = "af97670e6b45e373ad07a2138ecfae355117ba87600302336c03ab3181e86c69"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/particle_types/blows.json"
+hash = "ed8c85912d296355f0f322b3a56ef31e1f2c9f1f86c292a2288f6abc1cb014f4"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/particle_types/blows2.json"
+hash = "dd392d40678cd181f33963ab78a4a77a5312e7b9dfe300acc8766bef4e1565ce"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/particle_types/blows_boya.json"
+hash = "87820d7e5dba3938a777fc6bcba7c15ca4283757a759f24694efa01bdede2a27"
+
+[[files]]
+file = "mods/chromastone/addon/alienevo/particle_types/blows_yrg.json"
+hash = "87820d7e5dba3938a777fc6bcba7c15ca4283757a759f24694efa01bdede2a27"
+
+[[files]]
+file = "mods/chromastone/addon/chromastone/kubejs_scripts/effects.js"
+hash = "a120125f0b0bf38401a150075fa85c6e469c1348df3f3faebe1ef75abded6c6e"
+
+[[files]]
+file = "mods/chromastone/addon/chromastone/kubejs_scripts/hunger_fix2.js"
+hash = "5883998608de7309ad4589695b7f3ae81a39df8f7469a7ff31ac609677778d9a"
+
+[[files]]
+file = "mods/chromastone/addon/chromastone/particle_types/blow.json"
+hash = "dd392d40678cd181f33963ab78a4a77a5312e7b9dfe300acc8766bef4e1565ce"
+
+[[files]]
+file = "mods/chromastone/assets/aeo/textures/models/sil/alien_176.png"
+hash = "7261efa5068efcb55f97101869375ea796240a07f931e8c48632859aa90ca72d"
+
+[[files]]
+file = "mods/chromastone/assets/aeo/textures/models/sil_sel/alien_176.png"
+hash = "41b0228ddc35bc9aa8015312dded22079704ebfdc58e0965c7af45aec11375a1"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/palladium/render_layers/crystalsapien_color.json"
+hash = "8d290ea53203b89fe8b3c35a5848a2410de7c6ae93652baa49510ac06421efe7"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/blast.json"
+hash = "74c8ad997be81dff3202c54d2399f2ad14eba9a600351028580b223964994a10"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/blows.json"
+hash = "74c8ad997be81dff3202c54d2399f2ad14eba9a600351028580b223964994a10"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/gust.json"
+hash = "d5c81efe8c214da66aeaf9357fa57ec9a42b3689c0f948cb3e81bab3e5770e4a"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/gust_big.json"
+hash = "d5c81efe8c214da66aeaf9357fa57ec9a42b3689c0f948cb3e81bab3e5770e4a"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/sonic_boom.json"
+hash = "b8d97189ebe3e47b61a1f291f6f68bcf21d14acbcf3d06ef2a5532bc30517702"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/sonic_scream.json"
+hash = "aafc3671330bf46b86178e7c9c29755433cb16b9811a8e7f994b14d7b0553e21"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/sonic_scream_ff.json"
+hash = "aafc3671330bf46b86178e7c9c29755433cb16b9811a8e7f994b14d7b0553e21"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_beam.json"
+hash = "3d00e6c031703fbef0d468fe16fbf15552e6baf81570290dd16e99beb3d3a140"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_fireball_end.json"
+hash = "3d00e6c031703fbef0d468fe16fbf15552e6baf81570290dd16e99beb3d3a140"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_flame.json"
+hash = "d5c42168d1aa3cd6fa217a2536c27028bc68a0ca180b1451a75960479dd76645"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_flame_flare.json"
+hash = "1c0f2c9d019b7c27fbdbda716715444d758ba52377cd712908eed37f0078d853"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_flame_fly.json"
+hash = "220e7f309f4df8489ac5858e9e5e8d10bf2765a7f3628a14af2e39b0471240b0"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/particles/swamp_flame_hover.json"
+hash = "220e7f309f4df8489ac5858e9e5e8d10bf2765a7f3628a14af2e39b0471240b0"
+
+[[files]]
+file = "mods/chromastone/assets/afomni/sounds.json"
+hash = "21d363e672d6e99f4e8746c5f2acf50542c0b49421cf8cf7f8d24ca29d66aaae"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/models/item/sugilite_crystal.json"
+hash = "3c9d47aef10204e69af56cedccb39084dab9b511346695bda433e827db3d274a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/particles/blows.json"
+hash = "38c80f352408b1636cbebe4b2b9e131ce9204f8d5093c3b0bdf518dba240faaf"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/particles/blows2.json"
+hash = "5b73d4a6194b5f064ee2fa05b8e1ddfb4b4a86ea0d227ad19e62fae55e6e9ab5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/particles/blows_boya.json"
+hash = "72f58855ffa9d6a4effa4673a9f3c880560b14d62ad644e9b28d605098c14c95"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/particles/blows_yrg.json"
+hash = "14b72abc9fe8e6ca3116667c213945c85e7c036f23c179a06702393e5c5bccd0"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds.json"
+hash = "ebca6cab3120eb260bd45583da90776bc204649682fd12e758af1d684280643a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_beam.ogg"
+hash = "3f1af90d8bbc42ea83d1165046284462f4961dc5582d634b9fe8f6c2240fdf98"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_blows1.ogg"
+hash = "aaf9836c813c486dbf7df95e677a0a053f4e0027978e0796319e0e3ac009fa5a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_charge.ogg"
+hash = "ac4449f3a00443aab616ead120c6dbff8fda4af6c3b88a3b0cfbd9c1bc27556d"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_nether_star.ogg"
+hash = "bf1f407f02fa9074f4fdb52a71c1319bc80db7b03cacbe6cb206f40e1664ac35"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_passive1.ogg"
+hash = "d4edfa339190429ee545f406685315ff531cded01e0a7332ce740c84362a637e"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_passive2.ogg"
+hash = "b5c0e10439b87eeffcd3cd9b0b1a7b96a59f04823574a08f912ecf5e837ba67f"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_shield.ogg"
+hash = "f70da9d02f8edbd4f5200b86b352bdbd526f9947f076826315db91bb204432a1"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/sounds/chromastone_shotgun.ogg"
+hash = "c94e0b8cf63684fc7423ce57df72d20c945eadb800e72eb760463dffeac474b6"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/barrage_charge.png"
+hash = "1703f6d59e835291c9e8408f27075c34febd5e23f97034a77cb2830348c83f3a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/barrage_charge_old.png"
+hash = "edb7c1b8a11f9e4128d47cc32e2aac2447e174bba234f010f3a680def6555a8b"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/beam_barrage.png"
+hash = "6f8b305f06205e8adda96479d2197ed6dd942e67377f3eb8cda7fc322865453b"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/chromastone_blows.png"
+hash = "1a0063217975d7a2d77f43b2d5aa9ee77b375f06a630c40c86988fa08676e0f9"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/double_beam.png"
+hash = "6bc62231f968e8fccdd315d7183b2bf5757de81de506bd9f9f1b021a42b2b636"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/double_beam_old.png"
+hash = "3ac9227fe4c5319e1b01ea53cd1754ed30d6ee04730ec8a96b1b99f057c1efc6"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/energy_shield.png"
+hash = "06c51b578f3d9d7eee3fe6dd1901c0ddcc360bff162b3487d189f7ee8c6110f7"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/energy_shield_old.png"
+hash = "2e149d10f726a56c3ee24fc4178dcf171939639373b0570a412d448dd39bc844"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/aliens/alien_176/manual_absorption.png"
+hash = "f4c25d473cdd6acdd07332e369bc9ad022611dcc44b2be6b920cfc2c3184eea3"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/gui/playlists/playlist_1/alien_176.png"
+hash = "206b763a9b745426f793a3b6a82553342c4cbcbb358dbe2f5612fbaedc3040d9"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/item/sugilite_crystal.png"
+hash = "29bb4d1ff28bb405f1d3b6f9b632ef0716e607d4b9b75267247f7b1db4ef5c99"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/models/sil/alien_176.png"
+hash = "6808697c420888c1782bcb66e40a30ed1e7dc7c09fc9087275e9e82f6d4d0037"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_00.png"
+hash = "d90f65044f77e930ab284bb2224b66198c4cfb68178520e0cbf5bc1388adca6a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_01.png"
+hash = "0ae618ca509de4955f1b6fee73e1eebd9c5f8e38e09ca19db91dd5bd98b70e8a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_02.png"
+hash = "8235d9113f4e001e92761ced30f4698a7852bc9c00e308e6258124321760ec1f"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_03.png"
+hash = "21e377a9a5e741a5b62e913ea368819149924c6f404e09c8fb53bd013f41b95f"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_04.png"
+hash = "7c1082735bddbda6c76fc078b1a8080792f31d25048fdf82daf9e74a5df1253c"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_05.png"
+hash = "1a0cd6711b222f79e785558e04dd3df31b4ee66dccd72a0c62422a9d9c417a98"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_06.png"
+hash = "f4771358a2aae94edf6a5f191edc48c6610fc6bdb8f8543adbc4a61fc8d3c8e2"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_07.png"
+hash = "d5f9115bc17612de331d884e9df6af71fbffd0c370a57f00455cc3c343ad4da5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_08.png"
+hash = "117c016e88ae11a6aefe28c93b72ed6958aeb8aca94f089b74fa2da0ee26dec8"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_09.png"
+hash = "ae25a2159b5abf2b535ae94deb3aae7730502c93e164ed0f92467832c4282cf5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_10.png"
+hash = "48080305534a2be508b75102970aba03c877a89588c48191a993c224c3d6cffa"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_11.png"
+hash = "2f2fa5546299bc1ed77a1b1aa25b052bf3a95aa13305bf85d1d746f91fe9b863"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_12.png"
+hash = "eafb70af64ae30e3979c8f665b3439201f29313eff3b3ea0bf348024a5eacfaa"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_13.png"
+hash = "2d0a7a3ef36468fabb254a0369de13a05de6e6f0a6b25e9a05e1e10ed5181977"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_14.png"
+hash = "402c94368961347f61c10fa35d38b7af57c51a1d03d96b7a982e8d29e8a48c4e"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_15.png"
+hash = "fe483ecba05ce2bf4c0007e8b096e0e9dfa57758910e474057e2ff6548cbca3e"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_16.png"
+hash = "a1982f2820a45422138e45f5aaa4a919bbb0aa0188cca3af2c1094184acc561c"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_17.png"
+hash = "37e482483de9e85d8bcbccef1b4d2f637fee6b3447391ef6ad6aa725aa28588a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_18.png"
+hash = "5e632f84245957ca0c1937ca538362d7552e6dbcf086252974039d5858c52cb7"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_19.png"
+hash = "8c21659ee9cc369adf00b3c6ca24c1eb8cd00584bb3275b62a65d22a13ccb520"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_20.png"
+hash = "796e2413516437278e9aa1802fab3f9a154d79649ceae77982e3c19a502bf5e8"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_21.png"
+hash = "ec1110d05fd25521fcc8170eab1a5dbda1d070538f47d0a9ffdcff63c336f434"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_22.png"
+hash = "1d0b163f2570d510105b668b4979ef58b5824eb82ab9c9dfbe159b58af5fb56e"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_23.png"
+hash = "8b0a2d0ce9fc547cd054d86dd5c5d6262da8da03c9b149b06c3fe495a208a3fb"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_24.png"
+hash = "db9fc3823ae56925414d72e4fa20987d4e21184f2a73bdf1928b8c709817f428"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_25.png"
+hash = "c209018f0ecbff14c2189dedd2ad0f1ff60be3899f9cdc97e8e92284e939c214"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_27.png"
+hash = "bd5d1cbdd09a79bab0e390512e7e7a8f0e02a303aeaf33d6d2e8e0a41ca9b440"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_28.png"
+hash = "945e4293d01ffa4ad795a6dbd8e1ab7dd70d69061d7b07bd5c6373a38d24164c"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_29.png"
+hash = "9d0129c548783852b557f220e2c20707325326ab387bde3a1fd54b6b87a08ab0"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_30.png"
+hash = "e8c07f9b9e2fe22126cccd045e566142215801153217976220e61a5a3bc4bf83"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_31.png"
+hash = "d8cf16766f39a77475e40ecc7dfff1d63e5ceea07c2d52bafb60de5f1b5495f7"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_32.png"
+hash = "41476feb7d5e7338dd92a8a149cd00fb71db3f1a201908e50a402a7231d80124"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_33.png"
+hash = "8a60f45fcc0ecc1fcfb7e685ecc3fc3398b74254b0c8fbcba385e669a26d9b2c"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_34.png"
+hash = "e88be86537e71851f279b956e818aedf8be7b5b56da85b357b454bae367f0f22"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_35.png"
+hash = "e6c921b9f9e977821653375b08dd79a72175121e870e4f99a254c19053dc717e"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_36.png"
+hash = "67eabdfb750a2276afce4ffc5fe079809170bc62db0504407fb85d269cfa1cf0"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_37.png"
+hash = "f9ab1d3ac784d4df607a06f76fe4a9d280b97379d968f25cfc84cc7691c81875"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_38.png"
+hash = "3fc36160ffad7812de7b57cde4d5e4ad21e54c24bbbe880b1b9fc5bf9bcb90b2"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_39.png"
+hash = "1fc63e47caaa79d60b99b23e170ac8b8ca515c46c4981ad91423bafcf2661515"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_40.png"
+hash = "2933969fa11ed1f62a0abb9ddabcaf595c7c8cf7b2f4947797680234dcc42f8b"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_41.png"
+hash = "46c7200903426019448c177c0506642bbc5b69fdd055b05900fde2a69e65324f"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_42.png"
+hash = "e587efb092b1e7e58a5545f926c2f5d6fa390d5857af018a9942a9ce65bb72aa"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_43.png"
+hash = "cb323c67aa5736eb9f274990c87f23300f3da5903aeb8ec2879f4dfa7538c2ba"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_44.png"
+hash = "cd9555311186227f05821544417b1c9a616cd1cdab456f187d5dc5a59c3b61a5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_45.png"
+hash = "2b36d54669fc53aa060ed275614a3c7360c615af49548e6d0b61f5e4219868b5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_46.png"
+hash = "19ef0ece9964ba1fcab9b5c9d3d80557ec5e4945433d3a8742f988f0fe3e0733"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_47.png"
+hash = "f5d4aa3b3cb3145b75c05e60c17a6d0affe276778ace8a8e5af2ae57bb343186"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_48.png"
+hash = "e2a89d9f2882cc23f1bd7bb71841cb59ccc76268a4053b4b9592e3fd3520d8b3"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_49.png"
+hash = "837507ecdc4c3e9ab7933302ee1af5c00280929791fb6dac2f49de32db190fc5"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_51.png"
+hash = "4302f5e8f84b27b5bc7f5121ead6e82cc04b5565eee21c39adafcff9177f003a"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_52.png"
+hash = "89e91252d7a929d6c356d63647e542f9896d900691ab145f8663eb348e678efb"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_53.png"
+hash = "71175cfaf0340df7ebfc27f311a8420f8cd81cbe34275bf4d1f0a055e607adf9"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_54.png"
+hash = "d09f007600ccbe6f412898131e1534ddefa7db99d4deb125fb7b88f440ca043b"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_55.png"
+hash = "66c33dc5ae4280dc3e957ae07fd33bb951ad9a00737a70a2da622883b2bb21da"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_56.png"
+hash = "4e833828c9e134ade7a42ba3b75badc89e476c0192c5f3e3776242ec8f1e8a30"
+
+[[files]]
+file = "mods/chromastone/assets/alienevo/textures/particle/blows_57.png"
+hash = "db6e35c2a76a9cb76287b481f491850a795ffc8390bce39551881f63c3ee8401"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/animations/crystalsapien.animation.json"
+hash = "df1650721bd945a096990fe4a67de68c5998e84820090b0b8649264e6dbd0201"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/badges/badge_10k_crystalsapien.geo.json"
+hash = "b4f9a0f3f531294bcfd18ebbbcc8eb732946af5fed7b01866026224469a81314"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/badges/badge_ov_crystalsapien.geo.json"
+hash = "99089e606dd118e2eedd85d0f21ff052858713cf7564940d62ca43f7c842ad94"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/badges/badge_prototype_crystalsapien.geo.json"
+hash = "b9f0a7222a7c7efd1a91ce885862b720d3fba3d19cd8f0ea03ee3117bb9e4a32"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/badges/badge_recal_crystalsapien.geo.json"
+hash = "90e5c83dcb236296e208ab100997fcf7b889a4fb81eeb72c72491bec21651def"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/crystalsapien.fake.geo.json"
+hash = "0a8a43ced5eaab3795591e0dbbd29bba5877a85a5047ae8ea8f432d9ed6f1e26"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/geo/crystalsapien.geo.json"
+hash = "1359d947f3e4e24ee690af9f498ba0ef0507099861dfa589c93ddc4f44820bde"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/kubejs_scripts/crystalsapien.js"
+hash = "fd4d269f8675e29a8dbaa82d4afd5ccbca90206c5b33950fc39df60e2227b5a3"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/lang/en_us.json"
+hash = "b752d0632069009fbe62f32ec1a6d5418285e72cd2f0149ee75489260b9ddef4"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/models/block/encased_blocks.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/dynamic_textures/chromastone/beam_intensity.json"
+hash = "380f2a12706962940cd568016dd4bf585b3e79bd9625bce3cab7d63867d7b51d"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams.json"
+hash = "b2f9c474f1ccae28a278c23c17ac08e23f081b05519fbef2082632abab1c6e74"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff.json"
+hash = "5f67e9cd965ec4986f8cb10f513c4eb4e513ff646fe36cbbf6fa5e3b03cc2cf2"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_2.json"
+hash = "8bf00b956fcd81c4b4af7eff89f457287a0f60c7a234b5b6195275128f878b90"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_3.json"
+hash = "ea32f86409f299d8b5d951aceae42b906073a9673e69a527c1728f51feb6c677"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_4.json"
+hash = "4380247e2ad4035c83c56fadfecb55cc7fe9b32a8a359435b74d7854fb937175"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_5.json"
+hash = "b17ee755ff437cddfdc6c92b56c0d69d102a2bea4e2e4c1ccdc28c65420e947b"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_6.json"
+hash = "621bf7dcf09146406266615e0e57d9dbcf9d1f3237f65b9b2683c87de142e495"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_7.json"
+hash = "3ae002aec76ae7c45456eb29e16d22fa945f4dc49042d4c1d21fd29bfcccf869"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_buff_head.json"
+hash = "d75488841889c128158cd635fe0f3a369b446de2830d7c483ab8d33140efff22"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_decay.json"
+hash = "8f7a14e8201e071aab159df41d0a0b8c9ce8cee9299781905404300f23c74545"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_kryptonian.json"
+hash = "45fba5e6dfc198310a5a8479ba6d1f7c90319781888c4cccb0d2c82691e9e8e1"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_radium.json"
+hash = "5f841cb7e168f7867d6a9ee625afc410cc1136522e8ef441c707a853c7d56e15"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_beams_uranium.json"
+hash = "81f39a8648c16c8c3d87a285692ebec572e3006a10a7650d528d35f26d20ef60"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/energy_beams/chroma_shield.json"
+hash = "eee47c7b26c285bf640bdcad2ea7c20ab00164c7d5d60288b332ca4867372e69"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/render_layers/crystalsapien.json"
+hash = "068432ec1d1c5ebede92e25a9cabf614076321a92e4f95d0bf3437f846bb4424"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/render_layers/crystalsapien_block.json"
+hash = "c78e822f4c106a7b80a4994fd245b2d6f412516d3d4a1b31da80684d63bb2827"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/render_layers/crystalsapien_color.json"
+hash = "25804d8796966733b3a309b7626fb0c25de881c2d82befd0f149d3a686c70fb1"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_bigpro.json"
+hash = "94abd8e70c76d3f9e97d0516ab844a493ab0372fa7de54530d0bc981e2382168"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_lightning.json"
+hash = "27486fee6532efcbfc3ce62195d7b36a789d91946aab93d9fd23ad5d2e1aa252"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_pro.json"
+hash = "9256feeb744ee75bac6c03e0ebaa03cf497bc8aa0cae2f85c42bcb1a1cebc9d8"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_strong_1.json"
+hash = "2734b092f1d7df3a637064d94d9d5bd318192ee3413b3f3f2c299bbcba767cb8"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_strong_2.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/chroma_trail.json"
+hash = "a3dcb1ec631e2b10c716b4efef08652c6a8206a6e969d9cdafb05d86103c0ffe"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/laser_barrage.json"
+hash = "4b94ebca8d17137b21efa838679105f094500b7c1ab2ca8110801931c51d705f"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/lightning_test.json"
+hash = "410d6a674db8d03322bf7a022196436c6a658ef38d77d03759525d9ccd1f8f0c"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/palladium/trails/yellow_gradient.json"
+hash = "c5025734576ec73623f443028b12acb1cbbeb655a13fd0e1856a2115ce19d3c7"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/block/diamond_block.png"
+hash = "c6cd7d6be751611dfb9b2fc843cf15f2091a4f2f90674f14bbb463b8da88dd33"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/block/diamond_block_up.png"
+hash = "cee31474c55a92bd6cb10f14a2e536a5306adb7f3032b40d50d0faf8540e338a"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/main_beam.png"
+hash = "7f27c7e8e1eecbeae7f0af6583d25b2773ad173c879bae6032bf7befe5d0e251"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/refraction.png"
+hash = "b27a5776880c53000b89bc0d6b6897d525eb42cf5703f06ebab766eb563f4a5e"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/refraction_black.png"
+hash = "0953b00ac17eb5834b9c1b98017d00178fa25a70f70400b8de69ee306a9ce0e5"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/refraction_mix_2.png"
+hash = "e3e37a71a211ca4e42d17d654677b8c7fa46d55141408930cafe872330dac324"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/scroll_wheel.png"
+hash = "d833d848dc0697d2ffbf72afd45876038aaf0a1234d9d5228f4e411f6705537f"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/gui/aliens/alien_176/shield.png"
+hash = "9933a0448a54c99127ca13e940dd189065f12ffd192afdc0eb44f0295dcaad26"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/hud/crystalsapien_level_0.png"
+hash = "659310896e59458558e6fca056635d3bd4bdfa94d0d7fb89df81c30768ae29a1"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/hud/crystalsapien_level_1.png"
+hash = "a0e887b6f131ade32cd0ced19357f4bb282c68f7bcca1ba65877c7f7407b4b28"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/hud/crystalsapien_level_2.png"
+hash = "c320d063371a451216eb5138ba4eb3e4c893d7eafdf1b2f3f0c0f5de4e6d7a98"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/blank.png"
+hash = "7b2a37d38f0029e885acc8997a340b3428aaf12a27a50970ca71e57fdf8de387"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_0.png"
+hash = "32d505f570e3dc5762023a7d127af184bfc4f96f3fdf8c414af0519d4f75eccb"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_1.png"
+hash = "45ea25cceb3748a6627a7089209af0d3fe263af9ae7cf6dbc8eef05e72474048"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_2.png"
+hash = "3290d0971863db0c9ee16586d99d10f2c90ac91cdb92e65fd69a7ea60d1a450e"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_3.png"
+hash = "f2a7d3cf238f8c18acbb0d1e213c40b7168915fdb8ec5d694d20120564956f76"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_4.png"
+hash = "8758b898679d51f41cbd6c71919463431198b29e480f0e8638268eb05d721e0d"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_5.png"
+hash = "ceca4364c232a3bf81e4e629aaf801013192684bd8f98fb57c8d543e5127f5c8"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_6.png"
+hash = "8758b898679d51f41cbd6c71919463431198b29e480f0e8638268eb05d721e0d"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_7.png"
+hash = "f2a7d3cf238f8c18acbb0d1e213c40b7168915fdb8ec5d694d20120564956f76"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_8.png"
+hash = "3290d0971863db0c9ee16586d99d10f2c90ac91cdb92e65fd69a7ea60d1a450e"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/chromastone_color_9.png"
+hash = "45ea25cceb3748a6627a7089209af0d3fe263af9ae7cf6dbc8eef05e72474048"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien.png"
+hash = "16ed17de1e9d678e8aa17275c25392e352ee84d002041e8438629118a1635076"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_10k.png"
+hash = "070d1b930730335ff00758c594319eb8fb31804d8c47326da09c77019a8eba48"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_default.png"
+hash = "635bc39cb8a697c7bc2b84b9f45129a9146a60ac44f14cd67b08f19bb2282192"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_glow_10k.png"
+hash = "ef2c77b481195369cfa42a4817350c715a5f47957f1195e627edb4f2809f0c23"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_glow_default.png"
+hash = "ef2c77b481195369cfa42a4817350c715a5f47957f1195e627edb4f2809f0c23"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_glow_ov.png"
+hash = "ef2c77b481195369cfa42a4817350c715a5f47957f1195e627edb4f2809f0c23"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_glow_prototype.png"
+hash = "ef2c77b481195369cfa42a4817350c715a5f47957f1195e627edb4f2809f0c23"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_ov.png"
+hash = "e924beec453c24efc82b9c64f33acef7ce5f718fdc2231493bdf4b5961415d20"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_prototype.png"
+hash = "070d1b930730335ff00758c594319eb8fb31804d8c47326da09c77019a8eba48"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_skin_10k.png"
+hash = "e924beec453c24efc82b9c64f33acef7ce5f718fdc2231493bdf4b5961415d20"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_skin_default.png"
+hash = "e924beec453c24efc82b9c64f33acef7ce5f718fdc2231493bdf4b5961415d20"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_skin_ov.png"
+hash = "e924beec453c24efc82b9c64f33acef7ce5f718fdc2231493bdf4b5961415d20"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_skin_prototype.png"
+hash = "e924beec453c24efc82b9c64f33acef7ce5f718fdc2231493bdf4b5961415d20"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_uniform_10k.png"
+hash = "78459b0d81e11fe3ab196fb77350f1f6a52d1abbc75bf87bf8ea1dc7cf8cf4b5"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_uniform_default.png"
+hash = "5b0a8dbea9a919304eef130801cc60b714a5a472626e43b27187d844bd083972"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_uniform_ov.png"
+hash = "5b0a8dbea9a919304eef130801cc60b714a5a472626e43b27187d844bd083972"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/crystalsapien_uniform_prototype.png"
+hash = "78459b0d81e11fe3ab196fb77350f1f6a52d1abbc75bf87bf8ea1dc7cf8cf4b5"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_0.png"
+hash = "ef2c77b481195369cfa42a4817350c715a5f47957f1195e627edb4f2809f0c23"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_1.png"
+hash = "ce4efb3ae2a531fcd576a5d4b2b63a51ef107f5a220d35938570952bc2642d91"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_10.png"
+hash = "18df3dee3100f86ef62da193f482b08490460ef057d5b292247bdbcf0a5f56be"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_11.png"
+hash = "9af0ef72ad370ac1373980ea7856ffe5fa11e9e1b648287447cb4795839a073a"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_12.png"
+hash = "6460af9ce081ca4d451961d8326ca44c81b737254ac6e4e8ba79e518fc8e5d90"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_13.png"
+hash = "765299a97253b70b87029075faac3c1031474013a842f9896168748639490773"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_14.png"
+hash = "3b29e90affa09835bb0d102e8a70b1a31c60f9b71d1d488d168d6b57e434e1fa"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_15.png"
+hash = "e3af9908950869bbd8abfa9f9021a7fe8be957471d5c42559c35730750504201"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_2.png"
+hash = "a8936ced7efdb3b4fbd15c764a630c99a80102d4f1f9f7d37f5a3e56ba86f1e4"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_3.png"
+hash = "95df5eabecf978e170ce3d28a5b2953d684e5459ec21a0ca923a2ab31e5d9a49"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_4.png"
+hash = "4e61e478880328215b2d195f923a4076f7d2e154fe7a8d0382f7286d40836539"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_5.png"
+hash = "fae9a89aa62636d5302b3ac968fbf448f7fc2e5ccc4e71bd5bbbfaff770d15a0"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_6.png"
+hash = "eeabc7557b333cc26f25c774d2ebbee310547e1704b78e10a2ff68b0cefb0438"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_7.png"
+hash = "71bf0948e6ea03af70934c0f53bf76291fea9e339f81a835e9c0a6a063e2cb39"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_8.png"
+hash = "c168cfaad9736e55a6c5987c77316c998e78ace868119e82c0dcf6d80fa8ebc2"
+
+[[files]]
+file = "mods/chromastone/assets/chromastone/textures/models/crystalsapien/eye_color/crystalsapien_glow_9.png"
+hash = "a7aa7ca9a97759586225060bda32cf1604f54f8a4d80a52f5c1819e73950a778"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/damage_type/chroma_beam.json"
+hash = "d7d56991165b3898f10d121aaa69e16149953a8c655de00e05115261074b2036"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/damage_type/chromastone_absorbing.json"
+hash = "d623731aebdb754fde76e4599479d59ab5fafc0488563bb0fe7bc0eaf69f568b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/damage_type/chromastone_explosion.json"
+hash = "121dad277871ced73f34fddd8b745c4a59decb2bcf90e2fb741778999119be8b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/damage_type/chromastone_shotgun.json"
+hash = "187980e3c03481db10375501ffadf4323c685e5e6bbbd12ba5a34cd85b002ee5"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/beamdestroy.mcfunction"
+hash = "0ace41a10504d4093f53a71a3df8efecb71a74c950b98c3054d547dfa09006fa"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/beamkb.mcfunction"
+hash = "b84711a7a284d82641af59630cacf97c8e4a92f12ac1c1c569572d78fe5c176d"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/chromastone_10t.mcfunction"
+hash = "7655274618995d551447f22b9038d228ca68ed540adf5dadded77308d54765fa"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/chromastone_explosion.mcfunction"
+hash = "2a7bd61836ff6cab897917d7dda8174ae1a3471fa3fc4df8e2ee57f01f2370ff"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/chromastone_light.mcfunction"
+hash = "d5d941b4440f9e080ff5f1af60c0ce3120d283cde15d51240c3935d4db8d1fb6"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/chromastone_light_delete.mcfunction"
+hash = "2f4293682ac63d7cffd78c58b7e6f9406b2d03291de1409163938dc981ba07ff"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/cleanse.mcfunction"
+hash = "7becbf1e15a500e7fe6fca202bbe1dcb1012e5f268de1193bfabf83c9a830560"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/m1_enchant.mcfunction"
+hash = "273fc25b221eff664413f53c7753972d3d39757097243e65878a235bf962e57a"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/shotgun.mcfunction"
+hash = "5ff136b43516c88341cf1ae4fe63c98e936dae0759a08850625ba438a220f075"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/abilities/specifics.mcfunction"
+hash = "8260e447c64fb0b955c543a79d0534074dbfe4438baf0a735b6da1230569e288"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/absorb/infinite_entities.mcfunction"
+hash = "2062b0d73c7d315240c2743cbd83b57fbe30483157cb5399b26aa9d1a5d17f13"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/absorb/passives.mcfunction"
+hash = "2327b719706f0321c39aa528907a740a95e3335e31ccd2ce9c1c47e2a8f38115"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/functions/sugilite_grant.mcfunction"
+hash = "d5e945565160d0c97661f209a462d83596ac993bb267b3e48e072d39c10869d6"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/recipes/sugilite_crystal.json"
+hash = "e64952b923f09d838c347a8d11d16c035db5aa3906cff10f052970050fda11ae"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/blocks/strong_beam.json"
+hash = "234416b6d0505e15c467684b79ba30f5089895d28629d5c605f249a71783f900"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/blue_skies.json"
+hash = "b7a0d5354cca4d757ad4a14c7d2c1f1e837409772d67534ca0a6a63d63765cd5"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/cactus.json"
+hash = "6b435fbd68b2043beb465a1c50420ec965e9f0800d378f8b7788235586adfc04"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoars.json"
+hash = "b8e52fb82763fb1996b07dcfb67f574343d02ab7c273eda18d5dbeb1293942d1"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoastra.json"
+hash = "7feab482bed9335cc69c67f95f1117433001d2210ca3847281409b2f8874a44d"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoastramore.json"
+hash = "5f82c604ae0548da806ef8f35d5e9fcc89df7648453d404568b16c39a9763fa9"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evocataclysm.json"
+hash = "9016f2a91fc7525ae41333fdd42baef917165461ce31660b814fefe66288175f"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evocataclysmspells.json"
+hash = "b30dc7e36ecbdac857970153122fe023d4fa67af9ee6b5dce38819b8905ef5d9"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evocaves.json"
+hash = "3341e86fbe59381d0d2772b0f48989707bf838ce2ff9f884e93ce60093062ed1"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evocreate.json"
+hash = "6287df06ff08d837ec9ef6e23171f9e2d1d6d880e80e581a27df242b3c947938"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evofoolish.json"
+hash = "94313b739020c5dcd15ab031fb642f7bd959ecbf0fd04eae0b61d2c0775a566b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoforest.json"
+hash = "b42a46f98f2089bb47f177d129580a09cf1be7223b89c7441c3238b8581bb490"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evofsang.json"
+hash = "6a5c0b162a44ade673c031142cf552f23882601dbab477d3346f8241f724acff"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoiceandfire.json"
+hash = "10af0a9e9b301bd974a70a227284d3fbde8fbd530e1b5b7772710454d1065d37"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evolegends.json"
+hash = "9090defe5f5965de034c2b98fae80f9c83bebed271550ed94de990f668c885ce"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evomekanism.json"
+hash = "41c5ca24db33eb56666fd2f8fe76ac23bbafe5c3d751c3a25c60ee434406deb5"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evomna.json"
+hash = "f6b230bde08ce3fb8d58d01b8386d9e44d231c42d05996d6b8305a570ca816f1"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evopalladium.json"
+hash = "4176051f7b7f10703df750fba2efe33816b64bb0630f0dd7c6daef19e6772e0a"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evorbit.json"
+hash = "9e909c3223ccebe42578181286f4aac5d22a928786d1cdb19c6055b669356431"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoself.json"
+hash = "5ba45e96846cb290035fbdcebfb97a326568e76ee66a2a21dadaf13d6f6d5de1"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evospells.json"
+hash = "433e067c7e7637c46a34aac1285f4f0c198ec0c352177080c5a64b2352439539"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evotacz.json"
+hash = "b801bf1384680d8e1ebf0139111010b31a0f10510bc724a65f8a9b58a55284da"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoterramity.json"
+hash = "8fcb05c6bdb4415a31238e3e2cf32432af3b61ad274e8c25559a92862ca73b6d"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/evoto.json"
+hash = "dfa9f00a13d32ee4399d84335a0d31d13bc19248f0e37075789d03587b8ed58e"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/gourmandblast.json"
+hash = "4a4c5f63391276f47ef952bfc2cd0e69e2861ba482dca24fefe9683c6f2614a5"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/mekanismweaponry.json"
+hash = "ae08d654ead91720df3e9959ad5d8041c67356816f171caacba1a53760a5da3b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/mobattack.json"
+hash = "625db1b62a614c456fb3cffc3f0e527f07cf9af1a60f6c3d82789db30ca743d3"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/regret.json"
+hash = "fdd7a0ff4fa0c04ec6f517c90c15f06ae0b6f9367a8fffd4607da987ef7148e7"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/damage_type/stand.json"
+hash = "095e7d4055a8638d9631fdd34c8a3080799c69e1a5dcd0637ea68cfe92395176"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_block_of_uranium.json"
+hash = "119fd9568ea83ca5fb5d68aa9ebe23c5bcb53af7cb736cf7f56b404e9df40d9e"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_darkened_apple.json"
+hash = "faa7ad16961b192321388d526938561aef12984e62ad4190e7cbdea332b761eb"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_occult_gem.json"
+hash = "5ac70d5cbb40641c394efd7ca59efabc5f8b6184032ca2f69f904e865164a20c"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_pure_darkness.json"
+hash = "eab882616ad95734cdaf2ba22e3668dd4a32dc49b2361cf272ad8486cc090608"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_radrock_uranium_ore.json"
+hash = "96acbc0a1b0e1b136fe4d901c6d9c7a727119294cbd65d8202cbd88938d96648"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_uranium_ingot.json"
+hash = "44e10a2588e97ff68104e9ae0244c359998b3ed9ab95907f64bbcf308876ace9"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_uranium_rod.json"
+hash = "e6c57a1d3c1ba1f0358d3ba2a2612504c5fae7848dcd0e6be14757de8fa53665"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexscaves_uranium_shard.json"
+hash = "6737d8746e162a8345443156ec4c25bfbc464170122b4cc637d09f0b3ad1a857"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexsmobs_skreecher_soul.json"
+hash = "b8f33534f3e1fc1bd709f3b2264221cd13bac6af4736469f3f042c6cadf373b3"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/alexsmobs_soul_heart.json"
+hash = "8dc0f23e7a06ee1ae039fe527d1eb605da1275be1f036bd2a9b673c9dc6d2310"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/ars_nouveau_magebloom_crop.json"
+hash = "77df9dda10f9bc56761d3d23f8b579ca2c1bc305e6d5cdfeb920ebc6669d9b21"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/ars_nouveau_source_gem.json"
+hash = "86e6764de7d75cc513ac579771e8ec5219cb35b33852809b96bdf05da4b1a99c"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/ars_nouveau_source_gem_block.json"
+hash = "74b0fbc7f7d63b65799eb439a0aed7d3be93ec717a5b9a4d79ab95d05a16c8f6"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/borninmid_ethereal_spirit.json"
+hash = "10557f33f87d965b6fe06811f307866662711907b4b77400dc538a65eebb16a9"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/borninmid_spiritual_dust.json"
+hash = "093a65501e7bb273cdd39dad6262e3273ab71689324b6922c70b648da1be8b5a"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/cataclysm_cursium_ingot.json"
+hash = "6a708deab71d37f50df257a113637387246cd5d3c6079e3d9c302eac64bd02f8"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/cataclysm_void_core.json"
+hash = "c0f5a99cf9086775a56b9d41fbff38e4956b636ec4acb93f4e7a53d26513fa38"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/cataclysm_void_jaw.json"
+hash = "f588546b805e9b208543941c7319d4e7abc895e78a5424b049872651394ddbab"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/cataclysm_void_scatter_arrow.json"
+hash = "74e20022e9810c059ec88fe3db100ae6b160603c1611947633ac0a881e8ca033"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/cataclysm_void_stone.json"
+hash = "b490b51bc849db9365fa16ba834e854b8fd3d4837cf1cdac01f0110acf619a7c"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/foolish_phantasmal_essence.json"
+hash = "edc9c6409fb216ccb3919492af846cc548f8f3b59320b32388c735508121e05f"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/foolish_radium.json"
+hash = "993ce0295b8dbac6c6d505c11a20d98a3a5e47603c243d92eeaf44ef2c0a93b3"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/foolish_radium_crystal.json"
+hash = "a61139692b6af1677e59be3a23f5f055a6c16b8f4094e260aa3f9e33ec800e6b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/foolish_star_shard.json"
+hash = "9b16e800561e28476f9f1ecf63e9bffcf996400c43cfd8b4170fdc328b6068e7"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/foolish_stardust.json"
+hash = "9e48d0cea1193cd4b945b8731a5486282ef5cc8be09b50ef32d43059fcca6623"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/fsang_cosmic_particle.json"
+hash = "14afd64f5e60019f460109a33dbb9e1323146b8725b237ced396fbb81a0db7ae"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/fsang_hellfire_soul.json"
+hash = "4f2c3d542fb7daa64a95cd16a750f16e2cbd27f3df169f747cfcadc54da84601"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/fsang_kryptonite_block.json"
+hash = "20381721c089bcd7ccb6482e936eb15facae520a1cd71c1732c712ca76b9b1cf"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/fsang_kryptonite_ore.json"
+hash = "8332733f748732ca7c9b159703d1d7ce3075b42be6f035f173da9f626a3e445f"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/fsang_kryptonite_shard.json"
+hash = "d98b3f97a4748d6d3b807ed8e77b83ad717a907d3c7621c0da7c23c78efb1097"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/iceandfire_ectoplasm.json"
+hash = "dcd28331d8cf18a657faaf6efe225d76ec2013c6a06db5a77db2819fe64dd370"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/iceandfire_ghost_ingot.json"
+hash = "4ef05d3a32e71c9876dea6c7aa52a6bc89aed0a8a135b3164fd955b9ac0a8eaa"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/irons_spellbooks_arcane_essence.json"
+hash = "2cf85806b723fd11d9802c54a5b679b5adbe25b57dabb64237cec419bf794f5f"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_block_raw_uranium.json"
+hash = "8d0dad929d8a915abdd62c4d8e85ec39a594163b35251d7fe3492ce08f8bf822"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_clump_uranium.json"
+hash = "8265137ad9bdfc663bf7a73d44f1538bb86be4438f8710a51ef8e56a22454ac0"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_crystal_uranium.json"
+hash = "8386b14e8058ff2e8aaa526c43d0f652270243ea1a8346c2514c8cf4814b961b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_dust_uranium.json"
+hash = "bd2a1f62c0bc5e8236909a50633963802a7b26c7b103aa24c85e067651c785a6"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_ingot_uranium.json"
+hash = "a9fed72d1b09aebb54f79bb42105d4bac8a2335db4c3bde49c6840d115e0bcbe"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_nugget_uranium.json"
+hash = "498e9c293a49ebc68462f346c7934e613887b29c8b9f03ff48d0302940533c67"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_raw_uranium.json"
+hash = "eba44443a304ffc8211514c43d38e1fd030ea4527b1104d06f10b08cb4055249"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mekanism_shard_uranium.json"
+hash = "e9e615c04bd85e02dc0b2c59281dc57e187189fa98ae63ae403579b3eb2252e9"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/mowziesmobs_glowing_jelly.json"
+hash = "c1758cf776d70fd4f97d10bd184b3bf25d645e107d5f4d9ae8468ed186acc13e"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_accursed_soul.json"
+hash = "8e3d285ecf55b10fa2ea4bc02d299e18a8086ac08fe99ecf106311a845ae75bb"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_chtonian_shard.json"
+hash = "eb0d2155f3f51069fd9a2683c80c425109e5a0410d7363148abf3d6a170984f4"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_chtonian_void.json"
+hash = "62b7c1f9aaee3dfab6903806298141e982a459cd0f24b9f9aaf84b95963c2951"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_fairy_dust.json"
+hash = "ce567052817e08363d932412f712f9af6def94ea714b12c4f210a65e3674cb5b"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_lost_soul.json"
+hash = "a19c333e6f08247b1af8ae869b4ade4676ac2b33b84ef75e225f40219f7deb79"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_spectral_soul.json"
+hash = "d7a47264fdc9c0d9e06d3035fa187974d444cf2c4a838fb12b4e4ce18ea17cd7"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_spiteful_soul.json"
+hash = "5683159148473e302b4ecc558b80d6a5d519b6a56abf883515865297a5d4313d"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tags/items/terramity_warden_soul.json"
+hash = "4bbd9e0abd8ca51640c1a043ac8aab5b55b6c6ab68acea9c1448878e899507c1"
+
+[[files]]
+file = "mods/chromastone/data/alienevo/tracked_scores.json"
+hash = "ea2d7c9c675b217d7ab18c731c1b338b95db54eded92af903c79e41d39908399"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/damage_type/energy_limit.json"
+hash = "35c0cd9787fc5d2e7d0b303e39863eb6d379cb6eae1d26976b2f825a0c0c845f"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/damage_type/max_blast.json"
+hash = "69a21d92e5b381de8bd13dda7e3934f1f7f533bf5ea7f3ec074e6ae9bd9b223b"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/absorb/infinite_entities.mcfunction"
+hash = "0dbf2d88971b03f9f248536a5c3ee8ce93971b46be2a974e037c3b37a6f29355"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/absorb/passives.mcfunction"
+hash = "a27492b7dfd558abfcd0795ff5be7e16ef1df474f32df37d9d335d89899451f7"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/absorb/sorcery_passives.mcfunction"
+hash = "81972ec91c2dece0f47b9058515d98576d1c61e22ac1030cc1ce53726ec504b7"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/reduce_ce.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/superbweaponrycheck - Copy.mcfunction"
+hash = "2aabb33ebfe679743a0e933192a72b7d05f59f30a2433a098616dc86cd82ed3a"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/functions/superbweaponrycheck.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/encased.js"
+hash = "3e4222a4c95873aac0fded12aa101b117ccfb54a4faf9880226c0fdd984da95e"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/inventory.js"
+hash = "88b9634c47605aee35b0945c55ce1902ec5d02e4419fcdc690cd5bf5f46b7f63"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/ironspells_gain.js"
+hash = "aa45a06335de1a1c310a0f481e301dceb0eeef806fef4bffaf6ece3b34d0d44e"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/mekanism.js"
+hash = "5243882dfe7fac28099402b9274a84d01112c9d0c1a62d854ec813fa57e44333"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/override.js"
+hash = "1e95fdffbc4745331413a9f7cc3d49cacb308e129d70ac5eb3d00efd9eafa728"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/same_type_of_stand.js"
+hash = "230334a332d7a8015633ec99f80e6ceff4bc2253488c20bd556ede8125fd6957"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/kubejs_scripts/tremorzilla_beam.js"
+hash = "8c7120fbad51702ce97d848da075c866139c8af8509a1a7cb772881f27545f33"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/palladium/item_powers/sugilite_scan.json"
+hash = "2e0700975504ab855adcae4d33def4da2a5e7981454df2fdff97c3972d433b35"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/palladium/powers/crystalsapien.json"
+hash = "8504a2e2aa7dbd4c0a917125fe8ba427b258c973d29e562284871e7aff0604a9"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/palladium/powers/sugilite_crystal.json"
+hash = "fc5b5a3fa363d1dde81d584edb9699e70d8f0fddca17ca41e2614fd2980315a2"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/ars.json"
+hash = "fb44588dd6d64b1eabdf4c9dc510168434dfff0fe394391080f63fddd03902e4"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/chromastone.json"
+hash = "8562f64a80b476961ea09766dc28d7519dbecc38ae9e026dec30b9d16a33a9c9"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/cursedfate2.json"
+hash = "001c3f5cef5da52264223ed4d7b7ef0b4fa0f5ea5e121f021433d6e4e768a476"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/echoesofpower.json"
+hash = "af1e72e09b6d7c35b09a8577e3ce916cc5e9a86a90fcb40b0fd4072ad8da3237"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/forcefield.json"
+hash = "b7f1ef687389814480eda95000bd5b8e710b7931220db2713c68b5211cb797fe"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/fulmini.json"
+hash = "d19c71a0b7fe8762d8db342f252d28a14834c23d669c84671402b6dc976a9060"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/iceandfire.json"
+hash = "1f5cb264e2fc8c30938aa2223cca408e3229ac4b5664f9e6a38e3d4bac5da7ae"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/nvlforcefield.json"
+hash = "ef743795ebff1d66be71af946754fae1987e5ae8761817daefe9c0956539a868"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/regret.json"
+hash = "8e6042a8a7bab6d9f7be712cbe9de0764616059c6a62ed2b62e1a05d3791d874"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/securitycraft.json"
+hash = "703ba785415033540476598542c836df50f880f485f8a284535d5922aeb4e130"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/sorcery_age.json"
+hash = "c416edf1f4dc545456175ced94ac65e20b79db9d1bfb934251445886441e1e92"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/terramity.json"
+hash = "f1481a873b90728c6d8a34d174f85b10704147d15462d7c75cfa5af96feba2da"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/blocks/twilight.json"
+hash = "10dd248947a149e1c7ab6d503e37feb5c795962954b30c2fe15fb88246c9824a"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/chrono_machina.json"
+hash = "483afd7c6aa39ccd2ad709850767e27225074ab720e620ab46c40cd1a7c172dc"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/chrono_machina_exo_skull.json"
+hash = "f86d63aac5c90f8478595f0dde262490e1f61510435c2dcf4a76aa172808b285"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/echoes.json"
+hash = "692be998d6dbb52cf48acbcb5f549ddfbe7709a5d952b53565a219303dd893a8"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/exemp.json"
+hash = "6334fe66f8ebf9216eac03bb310be5b017528719b3da5192bb5dc3366a49bdaa"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/forcefield.json"
+hash = "3ce25f45ebc40f7713cbc0bf308667b9bcf01c5ebe2ecc79233db8edc3706ffb"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/ironspells_eldritch.json"
+hash = "c757a48cf5b5d42ba2395fb6b89bdb0c83e36bbadcf307bc22d4da63c7418038"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/ironspells_evocation.json"
+hash = "1d632d8a16e5a3e8e1de42c5fd4c76c4ca7d5649b9442d8c295dfead249286c4"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/jcraft.json"
+hash = "fecb2ee28e584bdd4052595189f8fb67e992d53ec5fc3ba08824430bb619ce84"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/jcraftph.json"
+hash = "12a40bbf700a5e01e562fab4d2bc14da428a337bd47bd13958b3a18187ba6f4f"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/securitfycraft.json"
+hash = "e467fc89ed329a24a39732edc979bb80a3f55d12bd544e680815981f3f12e5d7"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/sonicraft.json"
+hash = "903f9e54547555101184e20985ddb4d7aac7ad51f08726977d96268613568c31"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/sorcery_age.json"
+hash = "9539b4e27cfa03f75fb5c30f3f55464ca519e0077707a224983bc57586731d05"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/superbwarfare.json"
+hash = "af45b85f384d9b3cd6d233ad27f9856fe418c23c54478041c9c2ba4519bb226d"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/superwbweaponry.json"
+hash = "9dc90299c66e8e7a322cd2c653a4c6150b551ab9b7ad3258a1718ca7c8fb4365"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/torchesbecomesunlight.json"
+hash = "42656e148ff9a1b177fff5efebc1b1bbd4c74e324fb9295e18c030423b49756d"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/untapped.json"
+hash = "35f36336432dcd3a58e2f8ec60167fcf420c49ada22b0c9bc3a7fc627228e4cb"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/damage_type/voltic.json"
+hash = "300fb4a2312c5dbfbbe5485301bfaada1bec13ae640cfe708a7199b0594563c7"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_abjuration_essence.json"
+hash = "2faea5f9a644a10278ecd30d8a9e3cbf691ba6aa3030df11659e7e83681cbaea"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_air_essence.json"
+hash = "c354e0c901993347a98fb1e37e5ceeb378cc24a71db991e70b9406569528f691"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_conjuration_essence.json"
+hash = "b31d786534d22555226eac5e43271d294a2b7fe4ccfbec2562da71042c297c08"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_earth_essence.json"
+hash = "d8fdae183b5728852e80385b1315e0b2d646cd3a8f40d177c325766c8cadce1a"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_fire_essence.json"
+hash = "716c4c5c38fedf063b6f01ec2bbfbb2ddba7b9f95a2398f350615ee8355cbb7d"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_manipulation_essence.json"
+hash = "ae5c24c24283a1686af24add1364c9e0794a483a7af1f719fd9c40048e409855"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/ars_water_essence.json"
+hash = "530fa38616f95716e1c1d19787df5ed888b738fada45c7aed843da3f52fcce26"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/cinder_essence.json"
+hash = "39c02bed66efa8ac410fd2f1544e7d8fc9f4fc283aa5c19c29e9611e08818133"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/divine_soulshard.json"
+hash = "58043a3d02bb71b493436906c0f4772007ea8b6d0bfa759a13387708a5571209"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/mutantmonsters_endersoulhand.json"
+hash = "4b0525ab12ef817df540f9851031a9308dea9fa074fba825d373b7fda1ad5e0d"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/sonicraft_blue_cyan.json"
+hash = "8263d30a98b11bd9d1f9ce40d607df8854a69b50ececc7e6b699af3182c16274"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/sonicraft_blue_emerald.json"
+hash = "17f5903e49c5cc4ba8d2a8727dbe8888ac7ad88e0d603d93868f45eb3404a5e0"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/sonicraft_blue_red.json"
+hash = "97d33d68bf1e2e4e07667a2329bd6c8dbced2dbdb336b572101bdc38deefcd56"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/sonicraft_blue_yellow.json"
+hash = "ce4d05e111c057c79058b6f6cd0e13b11845befdf74ebba411bce60f6e4ffe4a"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tags/items/sunlightzombie_pure_sunlight_energy.json"
+hash = "98f8efc06423f5cf5697b1a5b048ba9bbc351f9d65fbf2fe0f6bd6986dc69e0f"
+
+[[files]]
+file = "mods/chromastone/data/chromastone/tracked_scores.json"
+hash = "884fdcc499349acb15a9c9b2e6b7d6c4b013b7d97042d1868963445a02bed445"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/always_hurts_ender_dragon.json"
+hash = "09a784a86c76cd68dac92a5ea9fa45cdd44351e36f49e66241e1e69d8f26ac97"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_armor.json"
+hash = "09a784a86c76cd68dac92a5ea9fa45cdd44351e36f49e66241e1e69d8f26ac97"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_cooldown.json"
+hash = "f5f64587cae2b4b31608fffbfa42eeb050fba630748eefe687567de303dc739c"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_enchantments.json"
+hash = "09a784a86c76cd68dac92a5ea9fa45cdd44351e36f49e66241e1e69d8f26ac97"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_invulnerability.json"
+hash = "07d008b23d4181ed2a8bf1de2f062622e4bf20ca367198829ac76e394d40c724"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_resistance.json"
+hash = "54ecabde31aae2ce859cedd348d34032c2b82aee3f8f7bdd286b55e758c3f506"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/bypasses_shield.json"
+hash = "8fdc04c39fabffdc3695842f022c045e1236e1ce6870dee8a6f7dc14579408df"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/no_knockback.json"
+hash = "73c392a8ca956f2c25164be43afff44407d14a06faa9884cca5dbce42520d3d1"
+
+[[files]]
+file = "mods/chromastone/data/minecraft/tags/damage_type/panic_causes.json"
+hash = "29e7cd041ef273af07042699a631d266ee9bdfcd1ed8e552e4249ce0501d9807"
+
+[[files]]
+file = "mods/chromastone/fabric.mod.json"
+hash = "559f33169c8cba94f3b0993f7c2d2b8707b95330c7beb8a4332f6c14716fa166"
+
+[[files]]
+file = "mods/chromastone/logo.png"
+hash = "ad0529bae7e0dc5dce6411ff347f5848a60df7c1c4f341bc580d8b48d3aa82c0"
+
+[[files]]
+file = "mods/chromastone/pack.mcmeta"
+hash = "f7eef0479ac895954bafe29cd3f324feccaee8b8bb1d87a17ff3d3e94fa4dc0e"
+
+[[files]]
+file = "mods/citadel-2.6.3-1.20.1.jar"
+hash = "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce"
+
+[[files]]
+file = "mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
+
+[[files]]
+file = "mods/create-1.20.1-6.0.8.jar"
+hash = "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+
+[[files]]
+file = "mods/curios-forge-5.14.1+1.20.1.jar"
+hash = "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f"
+
+[[files]]
+file = "mods/documentation/palladium/abilities.html"
+hash = "3c6c8885c81f37443746b3bc5c0273bcb643ad81b97851621ab8948c9306bb95"
+
+[[files]]
+file = "mods/documentation/palladium/accessories.html"
+hash = "b9a0623fb2b1dabfdd4fc8cc9a4f8781ff237746e874e1ff2c9940f4feb3ca74"
+
+[[files]]
+file = "mods/documentation/palladium/accessory_slots.html"
+hash = "3b241425a8a10ae810c80656ab4f36d8ea3169bcc8380faef062356551364d5b"
+
+[[files]]
+file = "mods/documentation/palladium/armor_materials.html"
+hash = "29830af609c6fc009fe0714e02c45c9af6c8e760d384b86627a207440d49fdcf"
+
+[[files]]
+file = "mods/documentation/palladium/blocks.html"
+hash = "f6ee6d59e0f020e684d1673cdafa08d13082f7856dab23209f4f9d3481a4b79b"
+
+[[files]]
+file = "mods/documentation/palladium/conditions.html"
+hash = "bd11c44a02ab886de9755af44a6a788ac429e4fcaa69dc2b7a203d810b5437bf"
+
+[[files]]
+file = "mods/documentation/palladium/creative_mode_tabs.html"
+hash = "0eb7f79c755f7e7713008fb4eeb5c6e238f4abbc62db2b242c394f9a0a731344"
+
+[[files]]
+file = "mods/documentation/palladium/dynamic_textures/variables.html"
+hash = "2b10dfc4cd8e78211b1dfba4da9bb081773db1d2c15551d2719ef171e79f81c7"
+
+[[files]]
+file = "mods/documentation/palladium/energy_beam_renderers.html"
+hash = "d4ed61db42c5f9403232844491cb8140570654549e2dc2808a3268282f2978f0"
+
+[[files]]
+file = "mods/documentation/palladium/icons.html"
+hash = "1f5b59a519164f9735dcf99e8ed45268dea0699381e422a47be283281c9416d2"
+
+[[files]]
+file = "mods/documentation/palladium/items.html"
+hash = "f078aa3874d7d0445d51f0ec9d55a52fe20db8d310d4f158bae7cd6f924aef84"
+
+[[files]]
+file = "mods/documentation/palladium/tool_tiers.html"
+hash = "00589a0a1c0f2084d9fa66798333cd823aa9432a97a95dcfc1540bd17751b21c"
+
+[[files]]
+file = "mods/documentation/palladium/trails.html"
+hash = "9a0d6219de2a50c7b3c0902c55051acb9623087cc4cf212fa7d1e67a87cc53e5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/allay.json"
+hash = "68140deee59f1c14cd19162b9f42c2f0bec10dfedfbd04a2a57be275ceb9b9cd"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/armor_stand.json"
+hash = "af239aca6d0ce929284250639a888252f24ddbaa00611ee6ff96e846148206e8"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/axolotl.json"
+hash = "5d82e4b937754d570ef31bff5767cf57070accabd3c784916b051a9b4c038c37"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/banner.json"
+hash = "a0f8e39691b0ca11391785ed1d8d324b4bd4396db48310495599ebba74bfbb66"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/bat.json"
+hash = "899e1b813c05ee47a89a1df0c5878861e9eb9c2fb297592124b344a4b2a80fdc"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/bed_foot.json"
+hash = "e6d5ada924b77f12ed9ec8db6ecd710e5a785181d699abdb0e829de0c87f399c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/bed_head.json"
+hash = "188e78864a1aff02e0dcd0cd5ebd4446b19660d8f0b9c9cce988e15320160a8e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/bee.json"
+hash = "6be7dc140fc60719cc2069e382ae8e217731334be0580d5b70bca1b14663e5ca"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/bell.json"
+hash = "79cf8ba6b36d4db12296c6d3553d9e10be583cfd65398b9f3d0026c278774c0f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/blaze.json"
+hash = "d0326eec2c9ccce23b1a260a62c76521c1083b8b1bb48a89acc8fd648c580887"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/acacia.json"
+hash = "92c349da8c54126689db5276574d61f3c2d47967bff5b20eb7b2b28f664fc8fb"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/bamboo.json"
+hash = "549021eeb7708ffe223946db6dc586c26e706c2a6e21b82ea9f063e66e9de149"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/birch.json"
+hash = "02a28daeb9de9ff9e22e7610dc13141df74619ac0f7500f73048a75bb0c33f0e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/cherry.json"
+hash = "43c9fc411e3e0b48e90b9e1df9ed07f41c0e517b47ba7bd2d14bbc0a2679f95d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/dark_oak.json"
+hash = "5f62045130c4b374d832d6767dd7e2547ae4548934074776a5fd872eb989b44f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/jungle.json"
+hash = "842ead8f4e907f0e286c72f1aff5009ec7925f9ede4a5b6787918300b75bc1e9"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/mangrove.json"
+hash = "c77508e16da2e2002c38891d73e7a2cc2c9be2f7805bf636648f6379ef7fcd9a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/oak.json"
+hash = "c70ca4df644eca8cb50d8c3e037f5d09d1a12f0322b6ef47938af650d68c451d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/boat/spruce.json"
+hash = "633db3f2f1922692310b0beb423d702cce31dbea8b2013618576f990b70ad67a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/book.json"
+hash = "8d7b4cffc87bea605b5763707de444705cb392644af1741ddd5103d45d3cb7ab"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/camel.json"
+hash = "49a65a26482104851c7047f7802738d6312817161d093d34b6082f8514e9644f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/cat.json"
+hash = "35c0808146239b88c8f161f2c25a6bd737838dd5074e09e45bcabe159844d64b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/cave_spider.json"
+hash = "b09d0df12169690104dd7265f72d123921d0393d27fff5332d713f633bc5e94f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest.json"
+hash = "552500382918abc5a1d225e40283f44ba10bcfe1b09c9d23c35c2c3199421a32"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/acacia.json"
+hash = "8b42f59136a24d52542dad024804d6837ab2c47781e05c26463eac7352702d6e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/bamboo.json"
+hash = "632d34415640075706230950e207b136621a3db77c8214ab8ab94b7176ce0b50"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/birch.json"
+hash = "57ba661ce26a6527772ba6b624dafbb162e765222bd644c8489d7942253bc501"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/cherry.json"
+hash = "1ca2a7a36bd83b0566f1f55f6954d73f772816a478e1f857e79d88f0587210d1"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/dark_oak.json"
+hash = "e8f69fd8b1346bb02ab2b10c3053745878a203fe6a25b56ce5e55df854d161b4"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/jungle.json"
+hash = "a5d409fa905cc6d210de7ba5b6480ffb6a6c8b5f2aac56e6e78f862fba5a4009"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/mangrove.json"
+hash = "0327d8698a8d9e25317fdf9cca3102358472da29902150db95ecf7045bea7225"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/oak.json"
+hash = "1d252e7047408f1a90369aa5b063668aa4d6846bdb5f79eae0d0f3a075515998"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_boat/spruce.json"
+hash = "41a8a13749d95e0af20f571d588b41f5c2f537b2109ccf4a60e0cb42dd147519"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chest_minecart.json"
+hash = "0c74e61b19b668241c75c6c0909e34f9e80eda31212092ed291f4c380bc374e7"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/chicken.json"
+hash = "c3c4efa7f82ca55a7f35a88b98bb9dfbede258ac463a27b37750ca20739e2488"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/cod.json"
+hash = "5045e899ae2f77fecda9f6149517df499f8ad5f41e15392df6d99025cc1e7f04"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/command_block_minecart.json"
+hash = "2a0d7a586a0e0b4d7265e559f47c2817a3891f9f2132c773421da13474b430af"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/cow.json"
+hash = "ca01d048a01b688dfc88a951c95b31f982e1791c3cdc202bba16c47565a9147d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/creeper.json"
+hash = "be418668d474b132c75aecec869dffcf2f2ce2976cc3f6c5876d70b4bc8ba4d6"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/creeper_head.json"
+hash = "31a2354981b8cb22fb7d18c47f1c6df1fee9545011e420acc3eee4aa128fbf0a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/decorated_pot_base.json"
+hash = "3717a4b9f0a2d2b16c181202d1482e8749bb47f3171a8ee854d14c05d55d27b1"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/decorated_pot_sides.json"
+hash = "4eb3035e5f83884b7fd4e10f94ac401cb7dec44741a88a6d4b0eefd13ea83952"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/dolphin.json"
+hash = "3b1ea98cd292eba18227280413456c7556062eecfb5db3c5186595a2f517d19c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/donkey.json"
+hash = "93308bd652aa5a7f775501db59deb2bf8459de50102f6778f3ad7afe3ba508d7"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/double_chest_left.json"
+hash = "9e62103dc93cc28ee26af092c575dcc5c7aa7a713cd0e863aa6ecff883bc6179"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/double_chest_right.json"
+hash = "11067938739284860ca5180ec053d3bf59e5cf7088c0db2d68bd02ef9b13049e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/dragon_skull.json"
+hash = "b35891aba3632c78fc4011df6a51ce2813dbd34d37e59f91accd8dcc15682d6a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/drowned.json"
+hash = "56610fa20786bb7d889c1e96c9a60819ce3e36a1d2a3c38776d83cb5fa06d8f7"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/elder_guardian.json"
+hash = "d2cf3e1bd52198b268cc5c634659b16e27b53b041e1641071a3f7dd4061eefc2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/elytra.json"
+hash = "27f8e85f2f72a2a2d53a72bea72bed75874fc3799bdf185fea15316b9a9fa505"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/end_crystal.json"
+hash = "074bbcf942cd8ea807fda6b7e06402880163ea2eaf5e2f1e16d2631398942ec7"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/ender_dragon.json"
+hash = "da5cd2d32fdd1da8f057a4b07b58851293f6afd7f263c603cf80575be74d3ca5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/enderman.json"
+hash = "ca5af29bfa95113d4a43b803159e99d0d580f0e3a6485c587f3515f8df9653a2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/endermite.json"
+hash = "a2de8bf341085e67a5ae68736294094808c3946c35add2fc007355aee05606b8"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/evoker.json"
+hash = "b2891ff07f7cefca5dbb835f24e2495412f3c2d0346fc367d2f2919244c72dbe"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/evoker_fangs.json"
+hash = "d7417d0e7f6d331cdfcdb3a9f927ec84fb480c6f3d39d995ec376e67eba48f24"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/fox.json"
+hash = "04161551dcfed3f0ab7e2f0f11e70cf300f67f010c9d5785936b24a14511eb4b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/frog.json"
+hash = "5a8e901bf21f166145b5e9cdadb58315170e5e58cf80f56c89f5b3a91aad8d95"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/furnace_minecart.json"
+hash = "f62ca3e37c9a0f0403fb520ca64e0a53f062cf39867ecde276ea54b78320e344"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/ghast.json"
+hash = "c38ec4fac4879689cbf0194cee1bc8fea1c2fca1649a1ad5d82713d143cb4870"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/giant.json"
+hash = "6af4e79c9d0473e13f910bcc41edcc5b2c7c6a65963435073d2bd519bca3d593"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/glow_squid.json"
+hash = "97b7a54f30604255168542330484d9399969fcbbd1b861d5d4712c1174a8f5df"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/goat.json"
+hash = "0edac7eac65a32e183cf3e4a6aa722e6fd6565fe27e1fa975f5f074eadf13aa6"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/guardian.json"
+hash = "cf8459bd3915a3e13e859af22b9ac51b147f73bf5865186e9ebf964de5e80e21"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/acacia.json"
+hash = "fc1cf9102b121fdfba3e03f0f3535d8dfa488d7e908c0a54c1013da3dd5c2fcc"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/bamboo.json"
+hash = "5e14212ef69b283ca3d67598e00a15c1da06faf1c9897a5dc5e8a0831b38c8b1"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/birch.json"
+hash = "45113da1f7e38a6f67899f2c8d48c70eff3e6d37f5b1afe25b22251fb18e50cb"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/cherry.json"
+hash = "9be0fd472faab7ecb05c66543167cc2f7618cdc36ff0a0f2b8501f34433d801d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/crimson.json"
+hash = "e293cc6381e94bc5ad1a4494b2c5610b163a9009bba5735e54a0fef92161b5f9"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/dark_oak.json"
+hash = "fff7ae8d056e2444fe744928134b5ec57931356275a16e12dc7451cb742fdb8e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/jungle.json"
+hash = "5c0ea0f1fc03ad3a3b0f8d02c19717bf5a7daa3fb484ddcbfb7975ec65c805a6"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/mangrove.json"
+hash = "47ef28744429099c4b123f895bbdf0cc064e03176142883bf677368b5b06355c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/oak.json"
+hash = "7be77670b25ce682ffc77f0c3e5c299d1e9ef0fa85a8eb9f0de654bde5b5c386"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/spruce.json"
+hash = "d358a51ba99ae20b64fadef61271095f0699c590aa0276f42bdf10ec4c5e9c54"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hanging_sign/warped.json"
+hash = "d6930a0a0e9d997d72c1ecfa70808e003db1a0f3f95dc9442fd0a67a8d3c5510"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hoglin.json"
+hash = "b84b6fe030adf6f7148f30ef8aee4e1a82b8a0c67e5f2e8b721bdfacb34319eb"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/hopper_minecart.json"
+hash = "9c999be8a28b7b00f6ba85ff5b850f866f8f27a2b89a3cf1d6fd2da775e23ab2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/horse.json"
+hash = "16e95e8f5c7aa63744c4a9a9673c76ec1715e5d861ace2c3357abf42708ff63f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/horse_armor.json"
+hash = "8848a567a12d5d138ada46856a31ecb01b2526765241cc6780204def01d55666"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/husk.json"
+hash = "b3b161d9ab527d2bd7f2c0ce54023aa75e2f23983089f99f2368a02b04271fd4"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/illusioner.json"
+hash = "bb1d3e860f3daab610b388df7a714a60fac07de8f94ea86c862b6047983a494c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/iron_golem.json"
+hash = "70fd9720b45aa2f4ff860e1363bccb2eed078baf2f6b9c09df4eb37bf41f3ee4"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/leash_knot.json"
+hash = "416aede266b6eba3ec3ece514cf51b5cc42b406d2fcfad09b0fdcb8c0bac736b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/llama.json"
+hash = "b64dcd353bb642f29372acdbd4c64eb11e64653fa7e3137d68d545268035bdfb"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/llama_spit.json"
+hash = "6bf0660bbaa7e181962418000e2c2592d735636933bea3e1517cbb0b656377b5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/magma_cube.json"
+hash = "eaa0caf41a1c5b9d87c848234e3b50985db4ff0ce18d31359736d35ec6eb2251"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/minecart.json"
+hash = "ac15b260d075b18fcf027c3c2e354173759931b9a3f38acfa2aa98ee15d449ed"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/mooshroom.json"
+hash = "daf24dc3ae35894ba97b4cc18e6b95a508373dc53f73afe951e44a5cf69d9a75"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/mule.json"
+hash = "2bd44996da539a72332d17594852e3e2eb9d29e3b71d93b696f751538fe5a8b9"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/ocelot.json"
+hash = "e453377bc4b0094c36de4968645234878ad5470611a31395cac28ee47ffb778f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/panda.json"
+hash = "1d2b07878be8aa018288815bf05f8d3aa57e35d4fea6f3728f9c874ae33952f9"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/parrot.json"
+hash = "e2a46294a46363ffffadb4d4d9ad78823f3c7d3f5a862d9914facce4e82313a5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/phantom.json"
+hash = "5a7a47818671cb943fd28a4da007216b7f9f1bcd4375532b90bb1466a8d0437b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/pig.json"
+hash = "695beb3342dd407e58b225caa04756df4621c041475cff53aa8c43a51ff268ba"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/piglin.json"
+hash = "f7472c1a626b393d6288c3cdf9f333a2bcd4236d0650a279d596612512e3b933"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/piglin_brute.json"
+hash = "855795500b0ad025c5c232cd90494fb6dc3e49863019e84c74be08a1b178ff92"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/piglin_head.json"
+hash = "f2570f522fb255032ab8de4f47fef3b40b744469b5e94f80aff2ca58c814292e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/pillager.json"
+hash = "1386c2bdd4af57c53420ee88747d465508dd1bae8dd79f6f36a3f8df446d35bc"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/player.json"
+hash = "d1a39372e2fccf1fca3d9ef2704547878dfef86c07a1e96fa7fb55f766bcce1d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/player_head.json"
+hash = "a5db76c04aeb9d592520e3c5214592931b99ea2720a11269a781972c9d044f95"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/player_slim.json"
+hash = "5a304614c193e678cb8b78a0b7024c65185a15e3894cb1768046ee5f4b29e7d2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/polar_bear.json"
+hash = "29678253c68d80e505cdb397a7ecedc9e2e91912a8e0fac079db7232dcebf454"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/pufferfish_big.json"
+hash = "577bb7ee916ee3891391e10e3aadf5fbd4f8f3f7afe456274c1dc227a9ad4ced"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/pufferfish_medium.json"
+hash = "b9b4fc8406dd8695f7ffa5171957ee45282f782ba8d825bfdd590be1767ea055"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/pufferfish_small.json"
+hash = "cfdcb489fa24b9ab7abe04529c45f17fd74395e053e55210292da1646e05412c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/rabbit.json"
+hash = "0773515880564bf4e5959c8b04a80b7dbe810ae41273075bcd0d7b364adc108c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/ravager.json"
+hash = "e7e5b6a99d94af34f67e4f43bb77215aa2001c2c76f550bbb4ae71434a522124"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/salmon.json"
+hash = "c33e60e64f8d56aea663648f3a95cb56a9cd459b75ea2aca61a187f5782bf81f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sheep.json"
+hash = "f31859d874e939effc7f2d8c4736f6f4ada3c65f4032084659950046e7966db4"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/shield.json"
+hash = "dc005e5128019187d57f62b53480170edce78fbb58bad7340067a127bfdc660a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/shulker.json"
+hash = "d394c5a63efd18b6dc970731bcc112dc764989f991af168b51b4f6aadd02040f"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/shulker_bullet.json"
+hash = "906a124ed536134fb8fa7ba4e152f47e68b9897a4b52d931001c48a73855b998"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/acacia.json"
+hash = "d6039588798eb4c4122e6601318ba7f121bcd6e6f13dd5289054a9fe39164eb8"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/bamboo.json"
+hash = "564bbc11eef173d86a557ccd2c5984ae05b3c03cc08b03f4a5e67c2d6cb9da38"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/birch.json"
+hash = "9e1a400af60f8bb137c074f49ae6e7811032ac636fa05b70097a12bc5b2444f6"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/cherry.json"
+hash = "aead4c28dd11f4723027ce9880ee9404c9274d40177fcf193dca2b485818d15d"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/crimson.json"
+hash = "5300de0b762f79e4799bfdb5969afb4ee6b485db4b46561bd68a95d3449dd850"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/dark_oak.json"
+hash = "ff4b8f658fedb78b58d45d7d9800355617df02e1177717cce6ab48ef8ef0eba6"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/jungle.json"
+hash = "cd9c50cfb6cd1ba0d17e965da3ee45265f04a801eb2e7a6bcbaa7d9b5841e2d5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/mangrove.json"
+hash = "29cf8e63e84969ea066570f221c21c1fbbd804c669fddf1e748b9a71c479c239"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/oak.json"
+hash = "ffa80621300c404dba279dd18a4537195d82330952d2a68e494d2adeb8eb510e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/spruce.json"
+hash = "cbb245638248bc8c33c1a96cc4f8ea798d01fceb1d3c9866e179c0c6ecbb74e2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sign/warped.json"
+hash = "269908c64d108586428cefa09be3bdfd8fa43dd5b0ec220376976c5c9fbab46a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/silverfish.json"
+hash = "bff33eb0346fbd3f9c1cfce10a83e35e69ae11bab91e2226789dad4a047c5dec"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/skeleton.json"
+hash = "38ccc8be1ec77f2528dfd315e90073b8c892cfa697bd92440a4aa4380891242b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/skeleton_horse.json"
+hash = "0def14eca3cdad7146025de4c0debe457607c880b920f8d1101d430849580b4e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/skeleton_skull.json"
+hash = "39f9932dbc57b9c824d27b38aeda04e3941d0a34673e26b9e8add1afa3eb4c2c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/slime.json"
+hash = "ca302844e0eaf35a64b155da043c171020a4e12c91fa34aadef855c750b188a2"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/sniffer.json"
+hash = "6ecdd6ba1a9f698d948de0f3f41bc83e14be90bfecd0ee56426dd7d4b9b72fb3"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/snow_golem.json"
+hash = "32952919ffcd0ae981ba940ae08b3f0be9977a5f227b51ccdad9fbb6bb5aacbf"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/spawner_minecart.json"
+hash = "542e12c120799e857439c452fc5bacb0bf4ddf77778f8c038496f3698b04e47a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/spider.json"
+hash = "92b2056d70b4909db3171ba0e3766f190d9dde084e16133883fa4de51975e3cd"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/spin_attack.json"
+hash = "4d5df8a67696eef88de0586d316fe7683c15f1f134b48bec45b6efc9d649622b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/squid.json"
+hash = "a2900b8e4fca0664ce2fae6c0524d9ddce85610f6081bbca527ff9966a6d671b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/stray.json"
+hash = "af70140f740194c23e7fb86d82f1baa7e0c6f19dc0d351d00eb02841cb3e2f2c"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/strider.json"
+hash = "e7d2d0c75d6990f48cb3c85bb1bb72f7bf432689ddf12a9af0b76aaac5aeec91"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/tadpole.json"
+hash = "aed969844d89de5c2a40e1cf29b4bcd289e1216d89d311eb16bfa79fbd19df3a"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/tnt_minecart.json"
+hash = "9874b66fc607ec14d5c20ba4f349f0c9fc46aaba9e61a85976065712c6e6b4c4"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/trader_llama.json"
+hash = "59ddcf6fb572a736b47f110ce0fa1179709d58b0680f89f295d4385a0e85824e"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/trident.json"
+hash = "3a4afccdd749f9ce778b3997a43ae1cf459d0888c6996304876548641ff75728"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/tropical_fish_large.json"
+hash = "232e3c6c2ee2fd413b486ba4435a810537cfdd86d7b99ca13a7d0f8171fdfcc1"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/tropical_fish_small.json"
+hash = "eaecbf51463bf2253d22277729c797e972d5f8e8c7b169f45968e34fb9dbd2a5"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/turtle.json"
+hash = "370b704655bc52966cfcacf593e53e5da469efdc439e6433b5418d948714b833"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/vex.json"
+hash = "1035eb319400a2ed860a89fc1007c95c9700a489cd84299eb21b782f48b575ec"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/villager.json"
+hash = "22c02ceff2f4f3ce7d7adfc7abb62872d435b40e039982b634959d0648cc12c9"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/vindicator.json"
+hash = "652adb353edf0acf372d941a5536ea7bec57b8478d1c7301e1202956c92f511b"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wandering_trader.json"
+hash = "903d1b6e00ad0aecdaaf6a1522de6b586f6b288c6895ba9583d51bb3318b4da8"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/warden.json"
+hash = "377d1c0e91f16f50f604683c870d45e40fe18d6c0acc98162267b81faa70e4ea"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/witch.json"
+hash = "32de50048d66808c681d3857264c9eba7f57057cb9b42b3b09ba3dfe566141b7"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wither.json"
+hash = "275eab8a98039d9ca7ff1c3bdd74a5d2c13eb9768052878721540b63c681e551"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wither_skeleton.json"
+hash = "3478c642bbfadf968855ef23ff6b8b9fe430619c7f7aa2f9b7cae103e5a91f87"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wither_skeleton_skull.json"
+hash = "f5ffa57815366062974d57617c394feca4e11b959b7d303d44eb79e83935a812"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wither_skull.json"
+hash = "630644d6a3a1491e043ba462ca9878eca296dd215d735b227ae99a2030cdcf36"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/wolf.json"
+hash = "587330d9e6a15bec832f0dea339a1ff1ee17e347adf1ea0ca146538f211c9cbf"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zoglin.json"
+hash = "337e765fce486e9cd3da9ebbb38e5b9cd1e683215fa2f271a5cb2ade0ad01a62"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zombie.json"
+hash = "7a7be370ebc5c38da21d589eff4381844a5750ba81aff358e4d87adcd78275a8"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zombie_head.json"
+hash = "bc3c5ba73f18b0cf7cab65712e0f6ac38b0716d6cda6b22b38b2cf1295cd79f3"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zombie_horse.json"
+hash = "330fe6b6a67577244062e1348eb18160d2c941fe563399982fc260499fe48a66"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zombie_villager.json"
+hash = "c7970b0983ff734c974b941f1ccd6d65089754f6cf445c7b0f16ecc03ab55368"
+
+[[files]]
+file = "mods/documentation/palladium/vanilla_models/zombified_piglin.json"
+hash = "47015099a397c2064d9b384ddd8db1cc16dcf25e2f40d85432ca498987812b4e"
+
+[[files]]
+file = "mods/domum_ornamentum-1.20.1-1.0.304-snapshot-universal.jar"
+hash = "3a5e8495da3acb3b331393d5131cef03068ee5df2164828e9c22a472f071455f"
+
+[[files]]
+file = "mods/eat_an_omelette-merged-1.20.1-1.5.0.jar"
+hash = "6542eeb0f08c0d69f5df1709b46f98a78f91a3a7b8cb89b7717a0753f80252fc"
+
+[[files]]
+file = "mods/elevatorid-1.20.1-1.9.1-forge.jar"
+hash = "7487c091bc8e6ae7b83c61471c97258b380fab2a0f421ed84df78f92ba630f75"
+
+[[files]]
+file = "mods/embeddium-0.3.31+mc1.20.1.jar"
+hash = "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
+
+[[files]]
+file = "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar"
+hash = "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14"
+
+[[files]]
+file = "mods/extragore-1.20.1-5.4.jar"
+hash = "1686e76de3e12833d879a41311518f6c0bdb453ce0eb6ccfa3f1523af73c6f00"
+
+[[files]]
+file = "mods/fairylights-7.0.0-1.20.1.jar"
+hash = "5c68ee27feb4ef10675c883ab67bfa0f1c3e3c0c2193f1c35f43a225d930d9b6"
+
+[[files]]
+file = "mods/ferritecore-6.0.1-forge.jar"
+hash = "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+
+[[files]]
+file = "mods/flib-1.20.1-0.0.16.jar"
+hash = "5736fd8a36fb3c69f99bae3127fb3743b68c801ffbab71a876c2a203a2c19e0e"
+
+[[files]]
+file = "mods/ftb-library-forge-2001.2.13.jar"
+hash = "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
+
+[[files]]
+file = "mods/ftb-quests-forge-2001.4.22.jar"
+hash = "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
+
+[[files]]
+file = "mods/ftb-ranks-forge-2001.1.7.jar"
+hash = "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872"
+
+[[files]]
+file = "mods/ftb-teams-forge-2001.3.2.jar"
+hash = "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07"
+
+[[files]]
+file = "mods/geckolib-forge-1.20.1-4.8.4.jar"
+hash = "c04abba4fd354dd8c0e8a732f1f05f4dca893d2e1d962b2ab128bbd411478747"
+
+[[files]]
+file = "mods/gravestone-forge-1.20.1-1.0.35.jar"
+hash = "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85"
+
+[[files]]
+file = "mods/journeymap-forge-1.20.1-6.0.7.jar"
+hash = "65cf198bd2ec41b2c1ac24a28544dddc74d5ef63222ebf3d393b76fa7bdc7a23"
+
+[[files]]
+file = "mods/kubejs-forge-2001.6.5-build.26.jar"
+hash = "1769312192fbf9d72f45054ba61130523bfb471b5f480a4bff8c210ec09400bb"
+
+[[files]]
+file = "mods/macawsroofsbop-1.20-1.1.jar"
+hash = "753da6acdc38224e19b47820bd79d771f2e980db9b584dd4eaaf3bdc2f753a0b"
+
+[[files]]
+file = "mods/mcef-cache/000003.log"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/mcef-forge-2.1.6-1.20.1.jar"
+hash = "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3"
+
+[[files]]
+file = "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar"
+hash = "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed"
+
+[[files]]
+file = "mods/mcw-doors-1.1.5-mc1.20.1forge.jar"
+hash = "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af"
+
+[[files]]
+file = "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+hash = "9f068315ac5ae7c4b76a6ac0679cde9be59d5cbf37488a477f13b95fe1cbc37d"
+
+[[files]]
+file = "mods/mcw-holidays-1.1.2-mc1.20.1forge.jar"
+hash = "47f33b62170b45a8a4195f83b50e9df468f65027c7e309fc583e9acaeae844cc"
+
+[[files]]
+file = "mods/mcw-lights-1.1.5-mc1.20.1forge.jar"
+hash = "174437555ff8b3938b5af8fa3f6efcc528fc101e90e35b89570323e4a3726f0a"
+
+[[files]]
+file = "mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar"
+hash = "10deb617769e9674a767a3991af4c46afd081b5de42cee326f71ef2700a14313"
+
+[[files]]
+file = "mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar"
+hash = "9a809897462ca11c1920748b0fdf4555f05ef3650db1bd82016906795d068c9f"
+
+[[files]]
+file = "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar"
+hash = "7674d829d5a38d91ca68061e087fded92e976e3e461edcf75117e37a257e8f10"
+
+[[files]]
+file = "mods/mcw-roofs-2.3.2-mc1.20.1forge.jar"
+hash = "3554317ad8d082a3d9fb5d8b387f5206e545323b4387ed1b93b7b3bf889def3f"
+
+[[files]]
+file = "mods/mcw-trapdoors-1.1.5-mc1.20.1forge.jar"
+hash = "c2abff58334d79ea61278c6dffd941a4f4ceb5cffadf889359fd45a003738217"
+
+[[files]]
+file = "mods/mcwbiomesoplenty-1.20.1-1.6.jar"
+hash = "70a76a9fa76c382cffc5e77de73623280da273fe50b56abaf3d7d5ed0175a630"
+
+[[files]]
+file = "mods/minecolonies-1.20.1-1.1.1308-snapshot.jar"
+hash = "6a59c4f60ea6cf306f87ea389192cf17c22260ba4a2a4c32883c937f81873765"
+
+[[files]]
+file = "mods/mining_dimension-1.20.1-1.0.4.jar"
+hash = "96af40c3bcc06b03bd79535bca591d87324a5eae87f4310cecefe17e060158b2"
+
+[[files]]
+file = "mods/mininggadgets-1.15.6.jar"
+hash = "cd3b6bbea5fd439df793b8213ccc906c2d025811dfb09b766acb2364ec513019"
+
+[[files]]
+file = "mods/modernfix-forge-5.27.91+mc1.20.1.jar"
+hash = "b42fe87fd5ffa46f7db56c6cee01b08dea362baf4cc56a70db40d928773b5000"
+
+[[files]]
+file = "mods/monolib-forge-1.20.1-4.1.2.jar"
+hash = "2f9071772e0fcd18be62a06d57dfb500adbd9e6919c1d41be872865ed8ea854e"
+
+[[files]]
+file = "mods/more_beautiful_torches-merged-1.20.1-3.1.1.jar"
+hash = "ca536623d7db81f924ab374b2a99b581dab1c9881bf400a757aeca7f13258cfb"
+
+[[files]]
+file = "mods/multipiston-1.20-0.0.47-snapshot.jar"
+hash = "ea41ccf857b3dd9cb7b1128f982fa138f1a62fdb6a4995adbd99eff963d71721"
+
+[[files]]
+file = "mods/nyfsspiders-Forge-1.20.1-3.0.2.jar"
+hash = "31adf31057c0f4a45866e29396ab4a382865a45b4923287358b4a2abb4a27c16"
+
+[[files]]
+file = "mods/oculus-mc1.20.1-1.8.0.jar"
+hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
+
+[[files]]
+file = "mods/omni_evo_1.0.6.jar"
+hash = "919da280a21327dff4087362f1ca9fccd2e2d7e9d7d3fb066156b8f97245a122"
+
+[[files]]
+file = "mods/omni_evo_aliens-1.0.1.jar"
+hash = "1dd9759c2b281aa02352abb0e391203c3cf7c622a58de6da85b94c1ffb4eb1ad"
+
+[[files]]
+file = "mods/overclocked_watches-merged-1.20.1-1.2.0.jar"
+hash = "57759b45b0a89dabb3f3250abd7ad40207a919490f4b00623b03e48c5ea0974f"
+
+[[files]]
+file = "mods/packetfixer-3.3.2-1.18-1.20.4-merged.jar"
+hash = "12f96ecb8e61e0b3d3f0ca5701f479904904501dd251aa7bb60205afdf6bc2ce"
+
+[[files]]
+file = "mods/palladium-4.5.10-1.20.1-forge.jar"
+hash = "777588cd42695eaa4675a97e9d9c5d9ab108f39d977ffcdaecddff3a73914021"
+
+[[files]]
+file = "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
+
+[[files]]
+file = "mods/rechiseled-1.2.6-forge-mc1.20.1.jar"
+hash = "8ec7a11f1e0dbb0bbf60d252a9424a13d26b447611dd97eaa8195cedd08cfc14"
+
+[[files]]
+file = "mods/rechiseledcreate-1.1.1-forge-mc1.20.jar"
+hash = "c030ad104dc8326bbae06cb35aca6571520e0e4ef1fb35949cba53f283b416f5"
+
+[[files]]
+file = "mods/rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+
+[[files]]
+file = "mods/saiyan-3.0.jar"
+hash = "c736737d9b5bf8771db201fbefc46d1130ef9f4631233c531db40f908f5c7ef2"
+
+[[files]]
+file = "mods/sit-1.20.1-1.3.5.jar"
+hash = "e036518b740ab399e153241d73919d9650bb9d8ba0d205a32f5995a69468c6bc"
+
+[[files]]
+file = "mods/sleeping-bags-forge-1.20.1-1.0.9.jar"
+hash = "f1e4c11b3a151e9f13c55ab9c72a107ba3651ad250b5912fa85bda9d14d3728f"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.20.1-3.26.19.2239.jar"
+hash = "570a1aac649185e29a574b57dfaa78a631a7247477667020a8ce5266f6c48746"
+
+[[files]]
+file = "mods/sophisticatedcore-1.20.1-1.5.29.2459.jar"
+hash = "d0881bf634ee03ad8c38497f09a3bc3fe2c252af88791a4e7147f2f36cff3493"
+
+[[files]]
+file = "mods/sophisticatedstorage-1.20.1-1.5.15.2220.jar"
+hash = "94e88cdb3736c232cdcd746f6800dd7076f03f45518bf0c8ef16b9b127ae385b"
+
+[[files]]
+file = "mods/sound-physics-remastered-forge-1.20.1-1.4.10.jar"
+hash = "57ce3c7d5abe724d9fb82f3d068b7717a56b94b7d3ea98f90a2f9ca61c8f57b1"
+
+[[files]]
+file = "mods/spark-1.10.53-forge.jar"
+hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+
+[[files]]
+file = "mods/structurize-1.20.1-1.0.823-snapshot.jar"
+hash = "37635cca4f4f2f8b6785802525d0871979a5177e43e1a40dba53402eed90d557"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+hash = "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+
+[[files]]
+file = "mods/supermartijn642corelib-1.1.26a-forge-mc1.20.1.jar"
+hash = "9bb2c58861c07c8b9ab0f4ae3eb299ebf69890ee21f90f238c483a25ca34d0e8"
+
+[[files]]
+file = "mods/torchmaster-20.1.9.jar"
+hash = "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682"
+
+[[files]]
+file = "mods/towntalk-1.20.1-1.1.0.jar"
+hash = "7ba6ab6ff1422b9175c3a7f232309db2c82d3ca3787547c79da7839cd78c262f"
+
+[[files]]
+file = "mods/visuality-forge-2.2.0.jar"
+hash = "0eb8b00fb8e3bef96930a13a6abeec6fde624baf95886d54e82986f03998d88e"
+
+[[files]]
+file = "mods/voicechat-forge-1.20.1-2.6.22.jar"
+hash = "f171e99fa99f007ef013af5306f6c490fe79a11be7e1b18940147d75ced045b9"
+
+[[files]]
+file = "mods/webdisplays-2.0.2-1.20.1.jar"
+hash = "017626c9c08bc6fa620c33643bd6ce9a1368f741b3af36d62fc299d5e38535af"
+
+[[files]]
+file = "mods/worldedit-mod-7.2.15.jar"
+hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+
+[[files]]
+file = "mods/xptome-1.20.1-2.2.1.jar"
+hash = "5928265b95ddf073834560c6cc3a0ca997c8d2eec134a1d7fd4f1451e92a79d9"
+
+[[files]]
+file = "mods/yelling_alien-0.8.0.jar"
+hash = "e9a1927152d6be1f3ee139c723b4c97667cc4c0e91cb0db89b2db0b7af042f00"

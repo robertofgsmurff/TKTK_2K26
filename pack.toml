@@ -1,0 +1,13 @@
+name = "TKTK 2K26"
+author = "Firo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d229a40d22b5b4122bbc9a80317a60d952c1632f6fb15fc402dfb7ac50ddc993"
+
+[versions]
+forge = "47.4.28"
+minecraft = "1.20.1"
