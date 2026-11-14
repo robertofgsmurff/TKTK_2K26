@@ -161,8 +161,8 @@ file = "mods/architectury-9.2.14-forge.jar"
 hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
 
 [[files]]
-file = "mods/balm-forge-1.20.1-7.2.2.jar"
-hash = "d4cf32e6df112be22a5af233626d0053a257a589fa21c3f5e0fb922070287646"
+file = "mods/balm-forge-1.20.1-7.3.44.jar"
+hash = "ad11d968770bb1ce73377626b6f1dcd4ae6f8be1ef6f37cee9b872b8176aebd3"
 
 [[files]]
 file = "mods/blockui-1.20.1-1.0.194-snapshot.jar"
