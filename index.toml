@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Git-2.56.0-64-bit.exe"
+hash = "bfe94e7b419b16eee9fecbd1253a98e3d4f49ba8f029630549052278ffe286a6"
+
+[[files]]
 file = "mods/AeroFlame.jar"
 hash = "dcb4c7bfdae666271476e6275f4801a761268d0eb3d7dd2f1f34006a177fc830"
 
@@ -59,6 +63,10 @@ hash = "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61"
 [[files]]
 file = "mods/ItemPhysic_FORGE_v1.8.17_mc1.20.1.jar"
 hash = "369d11f294bb9e0232b412e1dbfa23e89ea364848c9ea8b475015199d90d32db"
+
+[[files]]
+file = "mods/Jade-1.20.1-forge-11.8.0.jar"
+hash = "ae9b5a17d8d885e7a18f00863286fb22448c8fb2ddb198099805f20ede4ccf0a"
 
 [[files]]
 file = "mods/MTR-forge-4.0.5+1.20.1.jar"
@@ -2449,6 +2457,10 @@ file = "mods/gravestone-forge-1.20.1-1.0.35.jar"
 hash = "3d31bd224bc1f9055c502cf675416ae8046dbc15bf2db6627e26a032da437e85"
 
 [[files]]
+file = "mods/inventoryessentials-forge-1.20.1-8.2.19.jar"
+hash = "4c2a49fd97405ce8c665660155f15b57a3de72bee00f3c93eb054280b658d804"
+
+[[files]]
 file = "mods/journeymap-forge-1.20.1-6.0.7.jar"
 hash = "65cf198bd2ec41b2c1ac24a28544dddc74d5ef63222ebf3d393b76fa7bdc7a23"
 
@@ -2659,3 +2671,7 @@ hash = "5928265b95ddf073834560c6cc3a0ca997c8d2eec134a1d7fd4f1451e92a79d9"
 [[files]]
 file = "mods/yelling_alien-0.8.0.jar"
 hash = "e9a1927152d6be1f3ee139c723b4c97667cc4c0e91cb0db89b2db0b7af042f00"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
